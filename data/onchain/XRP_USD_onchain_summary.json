@@ -1,0 +1,25 @@
+{
+  "symbol": "XRP-USD",
+  "latest_date": "2025-03-27",
+  "active_addresses": 9544,
+  "transactions": 106243,
+  "volume": 10730,
+  "fees": 453,
+  "weekly_change": {
+    "active_addresses": -2.11,
+    "transactions": 5.42,
+    "volume": -3.68
+  },
+  "monthly_change": {
+    "active_addresses": 34.69,
+    "transactions": 54.53,
+    "volume": -24.16
+  },
+  "averages": {
+    "daily_transactions": 64007.86,
+    "daily_volume": 14886.62,
+    "daily_active_addresses": 6509.65
+  },
+  "onchain_score": 49.94,
+  "signal": "NEUTRE"
+}

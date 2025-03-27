@@ -1,0 +1,131 @@
+{
+  "date": "2025-03-27",
+  "cryptos_analyzed": 5,
+  "results": [
+    {
+      "symbol": "BTC-USD",
+      "latest_date": "2025-03-27",
+      "active_addresses": 9202,
+      "transactions": 24356,
+      "volume": 32437,
+      "fees": 903,
+      "weekly_change": {
+        "active_addresses": 1.59,
+        "transactions": 5.16,
+        "volume": -12.27
+      },
+      "monthly_change": {
+        "active_addresses": -3.49,
+        "transactions": 30.3,
+        "volume": -20.32
+      },
+      "averages": {
+        "daily_transactions": 16776.1,
+        "daily_volume": 41092.38,
+        "daily_active_addresses": 8824.66
+      },
+      "onchain_score": 49.08,
+      "signal": "NEUTRE"
+    },
+    {
+      "symbol": "ETH-USD",
+      "latest_date": "2025-03-27",
+      "active_addresses": 2206,
+      "transactions": 34282,
+      "volume": 109991,
+      "fees": 1092,
+      "weekly_change": {
+        "active_addresses": -6.6,
+        "transactions": 3.38,
+        "volume": 2.99
+      },
+      "monthly_change": {
+        "active_addresses": -9.33,
+        "transactions": 59.55,
+        "volume": -9.38
+      },
+      "averages": {
+        "daily_transactions": 27786.1,
+        "daily_volume": 98874.14,
+        "daily_active_addresses": 2427.7
+      },
+      "onchain_score": 49.96,
+      "signal": "NEUTRE"
+    },
+    {
+      "symbol": "BNB-USD",
+      "latest_date": "2025-03-27",
+      "active_addresses": 4597,
+      "transactions": 43219,
+      "volume": 35700,
+      "fees": 436,
+      "weekly_change": {
+        "active_addresses": -7.99,
+        "transactions": 11.13,
+        "volume": -7.15
+      },
+      "monthly_change": {
+        "active_addresses": 43.97,
+        "transactions": 23.29,
+        "volume": -5.91
+      },
+      "averages": {
+        "daily_transactions": 34170.51,
+        "daily_volume": 44496.4,
+        "daily_active_addresses": 3330.73
+      },
+      "onchain_score": 49.33,
+      "signal": "NEUTRE"
+    },
+    {
+      "symbol": "SOL-USD",
+      "latest_date": "2025-03-27",
+      "active_addresses": 579,
+      "transactions": 41047,
+      "volume": 184095,
+      "fees": 113,
+      "weekly_change": {
+        "active_addresses": 11.78,
+        "transactions": 7.04,
+        "volume": -2.52
+      },
+      "monthly_change": {
+        "active_addresses": -25.0,
+        "transactions": 18.89,
+        "volume": -14.75
+      },
+      "averages": {
+        "daily_transactions": 37544.14,
+        "daily_volume": 156762.36,
+        "daily_active_addresses": 849.7
+      },
+      "onchain_score": 52.72,
+      "signal": "POSITIF"
+    },
+    {
+      "symbol": "XRP-USD",
+      "latest_date": "2025-03-27",
+      "active_addresses": 9544,
+      "transactions": 106243,
+      "volume": 10730,
+      "fees": 453,
+      "weekly_change": {
+        "active_addresses": -2.11,
+        "transactions": 5.42,
+        "volume": -3.68
+      },
+      "monthly_change": {
+        "active_addresses": 34.69,
+        "transactions": 54.53,
+        "volume": -24.16
+      },
+      "averages": {
+        "daily_transactions": 64007.86,
+        "daily_volume": 14886.62,
+        "daily_active_addresses": 6509.65
+      },
+      "onchain_score": 49.94,
+      "signal": "NEUTRE"
+    }
+  ]
+}

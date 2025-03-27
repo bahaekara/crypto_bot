@@ -1,0 +1,5285 @@
+{
+  "symbol": "XRP-USD",
+  "name": "Ripple",
+  "sentiment_score": 0.0,
+  "sentiment_label": "Neutre",
+  "tweet_count": 400,
+  "positive_count": 0,
+  "negative_count": 0,
+  "neutral_count": 400,
+  "sentiment_percentages": {
+    "positive": 0.0,
+    "negative": 0.0,
+    "neutral": 100.0
+  },
+  "tweets": [
+    {
+      "id": "tweet_0_1743087151.112473",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 2993
+      },
+      "retweet_count": 61,
+      "favorite_count": 153,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087151.112473",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 6138
+      },
+      "retweet_count": 53,
+      "favorite_count": 189,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087151.112473",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 3225
+      },
+      "retweet_count": 37,
+      "favorite_count": 131,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087151.113427",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 4745
+      },
+      "retweet_count": 81,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087151.113427",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 8768
+      },
+      "retweet_count": 50,
+      "favorite_count": 135,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087151.113427",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 3416
+      },
+      "retweet_count": 18,
+      "favorite_count": 44,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087151.113427",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 764
+      },
+      "retweet_count": 86,
+      "favorite_count": 73,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087151.113427",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 4845
+      },
+      "retweet_count": 0,
+      "favorite_count": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087151.113427",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 6216
+      },
+      "retweet_count": 74,
+      "favorite_count": 19,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087151.114425",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 7748
+      },
+      "retweet_count": 11,
+      "favorite_count": 41,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087151.114733",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 2098
+      },
+      "retweet_count": 97,
+      "favorite_count": 10,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087151.114733",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 1211
+      },
+      "retweet_count": 97,
+      "favorite_count": 152,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087151.114733",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 1744
+      },
+      "retweet_count": 13,
+      "favorite_count": 195,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087151.114733",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 3120
+      },
+      "retweet_count": 54,
+      "favorite_count": 174,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087151.115422",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 8742
+      },
+      "retweet_count": 68,
+      "favorite_count": 27,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087151.115422",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 6100
+      },
+      "retweet_count": 4,
+      "favorite_count": 85,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087151.115422",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 2309
+      },
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087151.115422",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 4428
+      },
+      "retweet_count": 27,
+      "favorite_count": 123,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087151.115422",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 1953
+      },
+      "retweet_count": 73,
+      "favorite_count": 125,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087151.115422",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 3995
+      },
+      "retweet_count": 54,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087151.115422",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 8865
+      },
+      "retweet_count": 85,
+      "favorite_count": 196,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087151.116419",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 2200
+      },
+      "retweet_count": 27,
+      "favorite_count": 147,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087151.116419",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 8201
+      },
+      "retweet_count": 25,
+      "favorite_count": 65,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087151.116419",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 3967
+      },
+      "retweet_count": 88,
+      "favorite_count": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087151.116419",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 2724
+      },
+      "retweet_count": 40,
+      "favorite_count": 39,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087151.116419",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 9162
+      },
+      "retweet_count": 14,
+      "favorite_count": 132,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087151.116419",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 4841
+      },
+      "retweet_count": 29,
+      "favorite_count": 7,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087151.116419",
+      "text": "Je viens de vendre tout mon Ripple. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 7952
+      },
+      "retweet_count": 50,
+      "favorite_count": 172,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087151.117612",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 5460
+      },
+      "retweet_count": 94,
+      "favorite_count": 73,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087151.117612",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 9230
+      },
+      "retweet_count": 59,
+      "favorite_count": 164,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087151.117612",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 7754
+      },
+      "retweet_count": 49,
+      "favorite_count": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087151.118416",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 9301
+      },
+      "retweet_count": 51,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087151.118416",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 4244
+      },
+      "retweet_count": 33,
+      "favorite_count": 123,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087151.118416",
+      "text": "Je viens de vendre tout mon Ripple. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 6240
+      },
+      "retweet_count": 33,
+      "favorite_count": 2,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087151.119414",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 9235
+      },
+      "retweet_count": 10,
+      "favorite_count": 48,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087151.119414",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 7084
+      },
+      "retweet_count": 31,
+      "favorite_count": 182,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087151.119414",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 1071
+      },
+      "retweet_count": 79,
+      "favorite_count": 135,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087151.119414",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 4453
+      },
+      "retweet_count": 41,
+      "favorite_count": 127,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087151.119414",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 2222
+      },
+      "retweet_count": 64,
+      "favorite_count": 163,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087151.120409",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 5885
+      },
+      "retweet_count": 67,
+      "favorite_count": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087151.120409",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 8079
+      },
+      "retweet_count": 54,
+      "favorite_count": 61,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087151.120409",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 8502
+      },
+      "retweet_count": 65,
+      "favorite_count": 171,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087151.121406",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 5490
+      },
+      "retweet_count": 79,
+      "favorite_count": 169,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087151.121406",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 8284
+      },
+      "retweet_count": 40,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087151.122403",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 1610
+      },
+      "retweet_count": 8,
+      "favorite_count": 105,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087151.122465",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 3921
+      },
+      "retweet_count": 48,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087151.122465",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 1752
+      },
+      "retweet_count": 99,
+      "favorite_count": 145,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087151.122465",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 2019
+      },
+      "retweet_count": 96,
+      "favorite_count": 142,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087151.123401",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 2759
+      },
+      "retweet_count": 85,
+      "favorite_count": 189,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087151.123401",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 3980
+      },
+      "retweet_count": 99,
+      "favorite_count": 81,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087151.123401",
+      "text": "Je viens de vendre tout mon Ripple. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 7012
+      },
+      "retweet_count": 13,
+      "favorite_count": 84,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087151.123401",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 3721
+      },
+      "retweet_count": 81,
+      "favorite_count": 30,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087151.124398",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 5510
+      },
+      "retweet_count": 22,
+      "favorite_count": 199,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087151.124398",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 9744
+      },
+      "retweet_count": 91,
+      "favorite_count": 138,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087151.124398",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 1180
+      },
+      "retweet_count": 15,
+      "favorite_count": 112,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087151.125395",
+      "text": "Je viens de vendre tout mon Ripple. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 7121
+      },
+      "retweet_count": 37,
+      "favorite_count": 91,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087151.125395",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 5234
+      },
+      "retweet_count": 8,
+      "favorite_count": 129,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087151.125395",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 9318
+      },
+      "retweet_count": 10,
+      "favorite_count": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087151.125395",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 276
+      },
+      "retweet_count": 14,
+      "favorite_count": 36,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087151.126394",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 8344
+      },
+      "retweet_count": 91,
+      "favorite_count": 101,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087151.126394",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 3576
+      },
+      "retweet_count": 88,
+      "favorite_count": 165,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087151.12709",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 5287
+      },
+      "retweet_count": 65,
+      "favorite_count": 40,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087151.127391",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 7520
+      },
+      "retweet_count": 55,
+      "favorite_count": 117,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087151.127886",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 8784
+      },
+      "retweet_count": 64,
+      "favorite_count": 1,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087151.128386",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 9462
+      },
+      "retweet_count": 94,
+      "favorite_count": 7,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087151.128579",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 4697
+      },
+      "retweet_count": 35,
+      "favorite_count": 117,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087151.128579",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 6519
+      },
+      "retweet_count": 22,
+      "favorite_count": 61,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087151.128579",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 9311
+      },
+      "retweet_count": 31,
+      "favorite_count": 68,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087151.128579",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 468
+      },
+      "retweet_count": 78,
+      "favorite_count": 159,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087151.129479",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 4661
+      },
+      "retweet_count": 34,
+      "favorite_count": 30,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087151.129479",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 3531
+      },
+      "retweet_count": 59,
+      "favorite_count": 63,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087151.129479",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 6684
+      },
+      "retweet_count": 32,
+      "favorite_count": 192,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087151.130622",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 8013
+      },
+      "retweet_count": 84,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087151.130622",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 1079
+      },
+      "retweet_count": 82,
+      "favorite_count": 155,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087151.131596",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 660
+      },
+      "retweet_count": 92,
+      "favorite_count": 151,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087151.131596",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 8327
+      },
+      "retweet_count": 12,
+      "favorite_count": 148,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087151.131596",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 9605
+      },
+      "retweet_count": 35,
+      "favorite_count": 190,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087151.133376",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 6838
+      },
+      "retweet_count": 46,
+      "favorite_count": 11,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087151.133376",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 2627
+      },
+      "retweet_count": 68,
+      "favorite_count": 144,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087151.133376",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 7190
+      },
+      "retweet_count": 46,
+      "favorite_count": 28,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087151.133376",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 2512
+      },
+      "retweet_count": 35,
+      "favorite_count": 68,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087151.133376",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 931
+      },
+      "retweet_count": 63,
+      "favorite_count": 140,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087151.134374",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 4362
+      },
+      "retweet_count": 19,
+      "favorite_count": 7,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087151.134374",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 4979
+      },
+      "retweet_count": 23,
+      "favorite_count": 132,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087151.134374",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 9605
+      },
+      "retweet_count": 20,
+      "favorite_count": 50,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087151.134374",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 1299
+      },
+      "retweet_count": 80,
+      "favorite_count": 157,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087151.134374",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 103
+      },
+      "retweet_count": 11,
+      "favorite_count": 93,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087151.134374",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 7311
+      },
+      "retweet_count": 15,
+      "favorite_count": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087151.13537",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 7653
+      },
+      "retweet_count": 42,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087151.13537",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 1350
+      },
+      "retweet_count": 83,
+      "favorite_count": 112,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087151.13537",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 7888
+      },
+      "retweet_count": 89,
+      "favorite_count": 126,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087151.13537",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 9420
+      },
+      "retweet_count": 50,
+      "favorite_count": 124,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087151.13537",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 3415
+      },
+      "retweet_count": 32,
+      "favorite_count": 52,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087151.13537",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 4552
+      },
+      "retweet_count": 24,
+      "favorite_count": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087151.136366",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 446
+      },
+      "retweet_count": 9,
+      "favorite_count": 182,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087151.136366",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 4403
+      },
+      "retweet_count": 77,
+      "favorite_count": 83,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087151.136366",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 8402
+      },
+      "retweet_count": 72,
+      "favorite_count": 67,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087151.136366",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 9494
+      },
+      "retweet_count": 74,
+      "favorite_count": 123,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087151.136366",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 8156
+      },
+      "retweet_count": 11,
+      "favorite_count": 188,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087151.136366",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 2729
+      },
+      "retweet_count": 51,
+      "favorite_count": 2,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_0_1743087151.13905",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 7715
+      },
+      "retweet_count": 40,
+      "favorite_count": 44,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087151.13936",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 157
+      },
+      "retweet_count": 25,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087151.13936",
+      "text": "Je viens de vendre tout mon Ripple. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 9861
+      },
+      "retweet_count": 21,
+      "favorite_count": 178,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087151.13936",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 2911
+      },
+      "retweet_count": 17,
+      "favorite_count": 65,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087151.13936",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 719
+      },
+      "retweet_count": 68,
+      "favorite_count": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087151.13936",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 5613
+      },
+      "retweet_count": 54,
+      "favorite_count": 103,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087151.140357",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 2964
+      },
+      "retweet_count": 38,
+      "favorite_count": 97,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087151.140357",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 7740
+      },
+      "retweet_count": 47,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087151.140357",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 828
+      },
+      "retweet_count": 62,
+      "favorite_count": 123,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087151.140357",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 8689
+      },
+      "retweet_count": 80,
+      "favorite_count": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087151.140357",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 4999
+      },
+      "retweet_count": 89,
+      "favorite_count": 58,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087151.140357",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 506
+      },
+      "retweet_count": 39,
+      "favorite_count": 156,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087151.141354",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 5775
+      },
+      "retweet_count": 57,
+      "favorite_count": 58,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087151.141354",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 7568
+      },
+      "retweet_count": 75,
+      "favorite_count": 42,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087151.141354",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 7317
+      },
+      "retweet_count": 83,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087151.141354",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 8674
+      },
+      "retweet_count": 28,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087151.141354",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 5083
+      },
+      "retweet_count": 38,
+      "favorite_count": 61,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087151.141354",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 7097
+      },
+      "retweet_count": 61,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087151.141354",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 7840
+      },
+      "retweet_count": 22,
+      "favorite_count": 32,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087151.142351",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 9769
+      },
+      "retweet_count": 41,
+      "favorite_count": 190,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087151.142351",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 9792
+      },
+      "retweet_count": 53,
+      "favorite_count": 42,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087151.142351",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 9777
+      },
+      "retweet_count": 69,
+      "favorite_count": 149,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087151.142351",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 7117
+      },
+      "retweet_count": 86,
+      "favorite_count": 22,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087151.142351",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 5646
+      },
+      "retweet_count": 51,
+      "favorite_count": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087151.142351",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 3647
+      },
+      "retweet_count": 80,
+      "favorite_count": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087151.143355",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 6040
+      },
+      "retweet_count": 49,
+      "favorite_count": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087151.143355",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 8051
+      },
+      "retweet_count": 87,
+      "favorite_count": 37,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087151.143355",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 934
+      },
+      "retweet_count": 3,
+      "favorite_count": 19,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087151.143355",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 4601
+      },
+      "retweet_count": 80,
+      "favorite_count": 115,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087151.143355",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 8813
+      },
+      "retweet_count": 35,
+      "favorite_count": 72,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087151.143355",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 1458
+      },
+      "retweet_count": 80,
+      "favorite_count": 149,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087151.143355",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 6271
+      },
+      "retweet_count": 55,
+      "favorite_count": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087151.144347",
+      "text": "Je viens de vendre tout mon Ripple. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 7006
+      },
+      "retweet_count": 76,
+      "favorite_count": 42,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087151.144347",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 8672
+      },
+      "retweet_count": 96,
+      "favorite_count": 180,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087151.144347",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 6885
+      },
+      "retweet_count": 95,
+      "favorite_count": 11,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087151.145016",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 2547
+      },
+      "retweet_count": 79,
+      "favorite_count": 167,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087151.145345",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 7037
+      },
+      "retweet_count": 53,
+      "favorite_count": 142,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087151.145345",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 646
+      },
+      "retweet_count": 60,
+      "favorite_count": 37,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087151.14634",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 494
+      },
+      "retweet_count": 27,
+      "favorite_count": 44,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087151.146603",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 9057
+      },
+      "retweet_count": 41,
+      "favorite_count": 132,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087151.146603",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 2364
+      },
+      "retweet_count": 51,
+      "favorite_count": 195,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087151.147338",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 4472
+      },
+      "retweet_count": 22,
+      "favorite_count": 73,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087151.147338",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 2501
+      },
+      "retweet_count": 35,
+      "favorite_count": 58,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087151.148337",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 9106
+      },
+      "retweet_count": 41,
+      "favorite_count": 40,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087151.149337",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 4468
+      },
+      "retweet_count": 75,
+      "favorite_count": 135,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087151.149715",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 8603
+      },
+      "retweet_count": 7,
+      "favorite_count": 63,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087151.149715",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 7842
+      },
+      "retweet_count": 2,
+      "favorite_count": 105,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087151.150329",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 2595
+      },
+      "retweet_count": 54,
+      "favorite_count": 12,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087151.150329",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 8337
+      },
+      "retweet_count": 33,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087151.150329",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 5184
+      },
+      "retweet_count": 0,
+      "favorite_count": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087151.150329",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 6274
+      },
+      "retweet_count": 26,
+      "favorite_count": 179,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087151.151326",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 5148
+      },
+      "retweet_count": 18,
+      "favorite_count": 68,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087151.151326",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 4060
+      },
+      "retweet_count": 90,
+      "favorite_count": 59,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087151.151326",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 8125
+      },
+      "retweet_count": 85,
+      "favorite_count": 23,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087151.151326",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 380
+      },
+      "retweet_count": 32,
+      "favorite_count": 68,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087151.151326",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 8588
+      },
+      "retweet_count": 35,
+      "favorite_count": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087151.152323",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 4795
+      },
+      "retweet_count": 73,
+      "favorite_count": 142,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087151.152323",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 6728
+      },
+      "retweet_count": 11,
+      "favorite_count": 170,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087151.152323",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 4840
+      },
+      "retweet_count": 90,
+      "favorite_count": 152,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087151.152323",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 9177
+      },
+      "retweet_count": 63,
+      "favorite_count": 71,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087151.152323",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 830
+      },
+      "retweet_count": 55,
+      "favorite_count": 34,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087151.15332",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 5583
+      },
+      "retweet_count": 83,
+      "favorite_count": 164,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087151.15332",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 4322
+      },
+      "retweet_count": 88,
+      "favorite_count": 43,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087151.15332",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 355
+      },
+      "retweet_count": 10,
+      "favorite_count": 26,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087151.15332",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 2333
+      },
+      "retweet_count": 11,
+      "favorite_count": 33,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087151.15332",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 6089
+      },
+      "retweet_count": 15,
+      "favorite_count": 110,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087151.154318",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 9153
+      },
+      "retweet_count": 44,
+      "favorite_count": 104,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087151.154318",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 5325
+      },
+      "retweet_count": 11,
+      "favorite_count": 53,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087151.154318",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 2862
+      },
+      "retweet_count": 46,
+      "favorite_count": 103,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087151.154318",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 8713
+      },
+      "retweet_count": 68,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087151.154318",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 880
+      },
+      "retweet_count": 55,
+      "favorite_count": 24,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087151.154318",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 6837
+      },
+      "retweet_count": 51,
+      "favorite_count": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087151.155315",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 525
+      },
+      "retweet_count": 32,
+      "favorite_count": 142,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087151.155547",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 9675
+      },
+      "retweet_count": 71,
+      "favorite_count": 114,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087151.155547",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 5589
+      },
+      "retweet_count": 90,
+      "favorite_count": 33,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087151.155547",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 7447
+      },
+      "retweet_count": 47,
+      "favorite_count": 136,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087151.156315",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 313
+      },
+      "retweet_count": 16,
+      "favorite_count": 23,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087151.156315",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 9661
+      },
+      "retweet_count": 67,
+      "favorite_count": 129,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087151.156315",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 2577
+      },
+      "retweet_count": 31,
+      "favorite_count": 116,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087151.156315",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 7778
+      },
+      "retweet_count": 55,
+      "favorite_count": 1,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087151.157348",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 6190
+      },
+      "retweet_count": 54,
+      "favorite_count": 69,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087151.157348",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 643
+      },
+      "retweet_count": 48,
+      "favorite_count": 127,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087151.157348",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 6223
+      },
+      "retweet_count": 40,
+      "favorite_count": 106,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087151.157348",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 2377
+      },
+      "retweet_count": 20,
+      "favorite_count": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087151.157348",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 3992
+      },
+      "retweet_count": 17,
+      "favorite_count": 98,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087151.157348",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 2684
+      },
+      "retweet_count": 74,
+      "favorite_count": 46,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087151.158309",
+      "text": "Je viens de vendre tout mon Ripple. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 1370
+      },
+      "retweet_count": 68,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087151.158309",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 557
+      },
+      "retweet_count": 81,
+      "favorite_count": 0,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087151.158309",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 251
+      },
+      "retweet_count": 48,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087151.158309",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 9583
+      },
+      "retweet_count": 51,
+      "favorite_count": 42,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087151.158309",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 9041
+      },
+      "retweet_count": 76,
+      "favorite_count": 117,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087151.158309",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 4656
+      },
+      "retweet_count": 92,
+      "favorite_count": 163,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087151.159305",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 5723
+      },
+      "retweet_count": 82,
+      "favorite_count": 194,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087151.159305",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 5038
+      },
+      "retweet_count": 52,
+      "favorite_count": 164,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087151.159305",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 1784
+      },
+      "retweet_count": 80,
+      "favorite_count": 185,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087151.159305",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 2021
+      },
+      "retweet_count": 35,
+      "favorite_count": 7,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087151.159305",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 963
+      },
+      "retweet_count": 15,
+      "favorite_count": 99,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087151.159305",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 5375
+      },
+      "retweet_count": 80,
+      "favorite_count": 118,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087151.159305",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 5190
+      },
+      "retweet_count": 2,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087151.160305",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 2673
+      },
+      "retweet_count": 29,
+      "favorite_count": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_0_1743087151.161885",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 5997
+      },
+      "retweet_count": 28,
+      "favorite_count": 150,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087151.162976",
+      "text": "Je viens de vendre tout mon Ripple. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 3283
+      },
+      "retweet_count": 95,
+      "favorite_count": 70,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087151.162976",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 1769
+      },
+      "retweet_count": 15,
+      "favorite_count": 24,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087151.162976",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 9359
+      },
+      "retweet_count": 74,
+      "favorite_count": 40,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087151.164119",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 1844
+      },
+      "retweet_count": 60,
+      "favorite_count": 111,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087151.164706",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 1162
+      },
+      "retweet_count": 86,
+      "favorite_count": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087151.164877",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 1676
+      },
+      "retweet_count": 99,
+      "favorite_count": 170,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087151.164877",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 9722
+      },
+      "retweet_count": 83,
+      "favorite_count": 40,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087151.164877",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 3408
+      },
+      "retweet_count": 25,
+      "favorite_count": 71,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087151.165876",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 1698
+      },
+      "retweet_count": 20,
+      "favorite_count": 29,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087151.165876",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 947
+      },
+      "retweet_count": 29,
+      "favorite_count": 18,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087151.165876",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 8543
+      },
+      "retweet_count": 25,
+      "favorite_count": 85,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087151.165876",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 7192
+      },
+      "retweet_count": 56,
+      "favorite_count": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087151.165876",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 2243
+      },
+      "retweet_count": 39,
+      "favorite_count": 138,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087151.165876",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 6484
+      },
+      "retweet_count": 75,
+      "favorite_count": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087151.166873",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 3672
+      },
+      "retweet_count": 41,
+      "favorite_count": 84,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087151.166873",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 9149
+      },
+      "retweet_count": 66,
+      "favorite_count": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087151.166873",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 7588
+      },
+      "retweet_count": 25,
+      "favorite_count": 174,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087151.166873",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 6858
+      },
+      "retweet_count": 68,
+      "favorite_count": 115,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087151.166873",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 3039
+      },
+      "retweet_count": 14,
+      "favorite_count": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087151.16787",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 2165
+      },
+      "retweet_count": 45,
+      "favorite_count": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087151.16787",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 288
+      },
+      "retweet_count": 79,
+      "favorite_count": 13,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087151.16787",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 8706
+      },
+      "retweet_count": 75,
+      "favorite_count": 11,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087151.16787",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 2087
+      },
+      "retweet_count": 62,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087151.16787",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 785
+      },
+      "retweet_count": 43,
+      "favorite_count": 69,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087151.168872",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 533
+      },
+      "retweet_count": 8,
+      "favorite_count": 92,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087151.168872",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 9231
+      },
+      "retweet_count": 90,
+      "favorite_count": 69,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087151.168872",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 1305
+      },
+      "retweet_count": 87,
+      "favorite_count": 174,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087151.168872",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 8399
+      },
+      "retweet_count": 79,
+      "favorite_count": 172,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087151.168872",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 3271
+      },
+      "retweet_count": 40,
+      "favorite_count": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087151.169864",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 8481
+      },
+      "retweet_count": 17,
+      "favorite_count": 7,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087151.169864",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 621
+      },
+      "retweet_count": 96,
+      "favorite_count": 51,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087151.169864",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 993
+      },
+      "retweet_count": 2,
+      "favorite_count": 149,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087151.170316",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 294
+      },
+      "retweet_count": 54,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087151.170316",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 5016
+      },
+      "retweet_count": 60,
+      "favorite_count": 93,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087151.17102",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 1618
+      },
+      "retweet_count": 51,
+      "favorite_count": 20,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087151.17102",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 918
+      },
+      "retweet_count": 35,
+      "favorite_count": 46,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087151.172082",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 6573
+      },
+      "retweet_count": 5,
+      "favorite_count": 184,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087151.172082",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 2235
+      },
+      "retweet_count": 64,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087151.172854",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 3146
+      },
+      "retweet_count": 35,
+      "favorite_count": 151,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087151.172854",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 7069
+      },
+      "retweet_count": 87,
+      "favorite_count": 107,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087151.172854",
+      "text": "Je viens de vendre tout mon Ripple. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 7656
+      },
+      "retweet_count": 21,
+      "favorite_count": 152,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087151.172854",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 4872
+      },
+      "retweet_count": 12,
+      "favorite_count": 121,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087151.173856",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 888
+      },
+      "retweet_count": 24,
+      "favorite_count": 32,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087151.173856",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 3850
+      },
+      "retweet_count": 82,
+      "favorite_count": 148,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087151.174204",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 1573
+      },
+      "retweet_count": 51,
+      "favorite_count": 112,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087151.174204",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 9805
+      },
+      "retweet_count": 93,
+      "favorite_count": 54,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087151.174204",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 687
+      },
+      "retweet_count": 43,
+      "favorite_count": 115,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087151.174851",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 2976
+      },
+      "retweet_count": 9,
+      "favorite_count": 196,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087151.174851",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 1589
+      },
+      "retweet_count": 83,
+      "favorite_count": 65,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087151.174851",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 3125
+      },
+      "retweet_count": 66,
+      "favorite_count": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087151.174851",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 7547
+      },
+      "retweet_count": 22,
+      "favorite_count": 143,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087151.174851",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 708
+      },
+      "retweet_count": 11,
+      "favorite_count": 64,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087151.174851",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 7388
+      },
+      "retweet_count": 40,
+      "favorite_count": 158,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087151.175849",
+      "text": "Je viens de vendre tout mon Ripple. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 9761
+      },
+      "retweet_count": 39,
+      "favorite_count": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087151.175849",
+      "text": "Comment voyez-vous Ripple dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 3276
+      },
+      "retweet_count": 32,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087151.175849",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 9322
+      },
+      "retweet_count": 5,
+      "favorite_count": 50,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087151.175849",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 8225
+      },
+      "retweet_count": 49,
+      "favorite_count": 47,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087151.176632",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 5449
+      },
+      "retweet_count": 22,
+      "favorite_count": 72,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087151.176846",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 9102
+      },
+      "retweet_count": 47,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087151.176846",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 8865
+      },
+      "retweet_count": 8,
+      "favorite_count": 140,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087151.176846",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 4133
+      },
+      "retweet_count": 23,
+      "favorite_count": 44,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087151.176846",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 5317
+      },
+      "retweet_count": 6,
+      "favorite_count": 145,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087151.176846",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 6935
+      },
+      "retweet_count": 8,
+      "favorite_count": 105,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087151.176846",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 5654
+      },
+      "retweet_count": 11,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087151.176846",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 4929
+      },
+      "retweet_count": 89,
+      "favorite_count": 158,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087151.177852",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 3846
+      },
+      "retweet_count": 62,
+      "favorite_count": 104,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087151.177852",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 1210
+      },
+      "retweet_count": 65,
+      "favorite_count": 51,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087151.177852",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 5627
+      },
+      "retweet_count": 77,
+      "favorite_count": 117,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087151.177852",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 3405
+      },
+      "retweet_count": 84,
+      "favorite_count": 44,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087151.177852",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 7450
+      },
+      "retweet_count": 4,
+      "favorite_count": 14,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087151.177852",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 122
+      },
+      "retweet_count": 87,
+      "favorite_count": 166,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087151.178908",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 4414
+      },
+      "retweet_count": 4,
+      "favorite_count": 6,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087151.180411",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 756
+      },
+      "retweet_count": 2,
+      "favorite_count": 116,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087151.18092",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 7201
+      },
+      "retweet_count": 6,
+      "favorite_count": 147,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087151.182274",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 9174
+      },
+      "retweet_count": 52,
+      "favorite_count": 51,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087151.182837",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 3653
+      },
+      "retweet_count": 5,
+      "favorite_count": 12,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087151.182837",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Ripple sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 8015
+      },
+      "retweet_count": 72,
+      "favorite_count": 164,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087151.182837",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 9156
+      },
+      "retweet_count": 75,
+      "favorite_count": 158,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087151.183826",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 9692
+      },
+      "retweet_count": 4,
+      "favorite_count": 63,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087151.183826",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 4220
+      },
+      "retweet_count": 8,
+      "favorite_count": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087151.184824",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 6393
+      },
+      "retweet_count": 5,
+      "favorite_count": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087151.184824",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 1040
+      },
+      "retweet_count": 29,
+      "favorite_count": 187,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087151.184824",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 1646
+      },
+      "retweet_count": 50,
+      "favorite_count": 23,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087151.184824",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 5269
+      },
+      "retweet_count": 27,
+      "favorite_count": 30,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087151.184824",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 7673
+      },
+      "retweet_count": 91,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087151.184824",
+      "text": "Ripple a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 8750
+      },
+      "retweet_count": 40,
+      "favorite_count": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087151.185822",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 5943
+      },
+      "retweet_count": 84,
+      "favorite_count": 49,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087151.185822",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 807
+      },
+      "retweet_count": 89,
+      "favorite_count": 163,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087151.185822",
+      "text": "La r\u00e9gulation va frapper Ripple durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 2253
+      },
+      "retweet_count": 73,
+      "favorite_count": 43,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087151.185822",
+      "text": "Je viens de vendre tout mon Ripple. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 719
+      },
+      "retweet_count": 91,
+      "favorite_count": 74,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087151.185822",
+      "text": "Ripple r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 1641
+      },
+      "retweet_count": 44,
+      "favorite_count": 172,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087151.185822",
+      "text": "Ripple est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 5783
+      },
+      "retweet_count": 93,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087151.185822",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 322
+      },
+      "retweet_count": 46,
+      "favorite_count": 104,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087151.186819",
+      "text": "Vient d'acheter plus de Ripple. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 369
+      },
+      "retweet_count": 58,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087151.186819",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 6626
+      },
+      "retweet_count": 62,
+      "favorite_count": 64,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087151.186819",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 7687
+      },
+      "retweet_count": 34,
+      "favorite_count": 184,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087151.186819",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Ripple? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 5441
+      },
+      "retweet_count": 21,
+      "favorite_count": 2,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087151.186819",
+      "text": "Les probl\u00e8mes techniques de Ripple sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 1565
+      },
+      "retweet_count": 63,
+      "favorite_count": 167,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087151.186819",
+      "text": "J'adore Ripple! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 4023
+      },
+      "retweet_count": 76,
+      "favorite_count": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_0_1743087151.189809",
+      "text": "$XRP a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 3414
+      },
+      "retweet_count": 82,
+      "favorite_count": 138,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087151.189809",
+      "text": "Comparaison int\u00e9ressante entre $XRP et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 5768
+      },
+      "retweet_count": 4,
+      "favorite_count": 14,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087151.189809",
+      "text": "La r\u00e9gulation va frapper $XRP durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 1655
+      },
+      "retweet_count": 65,
+      "favorite_count": 30,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087151.189809",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $XRP? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 8837
+      },
+      "retweet_count": 18,
+      "favorite_count": 87,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087151.19081",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $XRP sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 1952
+      },
+      "retweet_count": 40,
+      "favorite_count": 127,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087151.19081",
+      "text": "$XRP a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 8018
+      },
+      "retweet_count": 64,
+      "favorite_count": 145,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087151.19081",
+      "text": "$XRP est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 1652
+      },
+      "retweet_count": 54,
+      "favorite_count": 35,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087151.19081",
+      "text": "$XRP est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 2411
+      },
+      "retweet_count": 94,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087151.19081",
+      "text": "La r\u00e9gulation va frapper $XRP durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 5681
+      },
+      "retweet_count": 20,
+      "favorite_count": 35,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087151.191805",
+      "text": "Je viens de vendre tout mon $XRP. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 6148
+      },
+      "retweet_count": 80,
+      "favorite_count": 52,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087151.192073",
+      "text": "J'adore $XRP! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 9816
+      },
+      "retweet_count": 61,
+      "favorite_count": 125,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087151.192073",
+      "text": "Comment voyez-vous $XRP dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 9626
+      },
+      "retweet_count": 80,
+      "favorite_count": 91,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087151.192073",
+      "text": "Vient d'acheter plus de $XRP. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 2001
+      },
+      "retweet_count": 93,
+      "favorite_count": 68,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087151.192073",
+      "text": "Le volume d'\u00e9changes de $XRP est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 4558
+      },
+      "retweet_count": 45,
+      "favorite_count": 195,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087151.192802",
+      "text": "Le volume d'\u00e9changes de $XRP est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 7208
+      },
+      "retweet_count": 14,
+      "favorite_count": 187,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087151.192802",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $XRP ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 6116
+      },
+      "retweet_count": 68,
+      "favorite_count": 171,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087151.192802",
+      "text": "$XRP est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 5511
+      },
+      "retweet_count": 38,
+      "favorite_count": 190,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087151.192802",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $XRP? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 8516
+      },
+      "retweet_count": 43,
+      "favorite_count": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087151.192802",
+      "text": "$XRP r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 5840
+      },
+      "retweet_count": 62,
+      "favorite_count": 136,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087151.192802",
+      "text": "J'adore $XRP! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 1000
+      },
+      "retweet_count": 25,
+      "favorite_count": 133,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087151.192802",
+      "text": "J'adore $XRP! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 5281
+      },
+      "retweet_count": 56,
+      "favorite_count": 154,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087151.1938",
+      "text": "Je viens de vendre tout mon $XRP. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 3000
+      },
+      "retweet_count": 70,
+      "favorite_count": 91,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087151.1938",
+      "text": "Comment voyez-vous $XRP dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 9569
+      },
+      "retweet_count": 97,
+      "favorite_count": 41,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087151.1938",
+      "text": "$XRP est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 5729
+      },
+      "retweet_count": 9,
+      "favorite_count": 87,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087151.1938",
+      "text": "La r\u00e9gulation va frapper $XRP durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 873
+      },
+      "retweet_count": 75,
+      "favorite_count": 181,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087151.1938",
+      "text": "$XRP a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 3565
+      },
+      "retweet_count": 4,
+      "favorite_count": 171,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087151.1938",
+      "text": "Comparaison int\u00e9ressante entre $XRP et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 9285
+      },
+      "retweet_count": 19,
+      "favorite_count": 171,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087151.194883",
+      "text": "Le volume d'\u00e9changes de $XRP est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 8317
+      },
+      "retweet_count": 86,
+      "favorite_count": 72,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087151.194883",
+      "text": "Comparaison int\u00e9ressante entre $XRP et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 7156
+      },
+      "retweet_count": 80,
+      "favorite_count": 43,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087151.195794",
+      "text": "Le volume d'\u00e9changes de $XRP est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 4708
+      },
+      "retweet_count": 86,
+      "favorite_count": 102,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087151.195794",
+      "text": "Vient d'acheter plus de $XRP. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 6523
+      },
+      "retweet_count": 25,
+      "favorite_count": 99,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087151.196793",
+      "text": "Le volume d'\u00e9changes de $XRP est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 4626
+      },
+      "retweet_count": 22,
+      "favorite_count": 167,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087151.196793",
+      "text": "La r\u00e9gulation va frapper $XRP durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 6966
+      },
+      "retweet_count": 94,
+      "favorite_count": 151,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087151.196793",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $XRP? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 3447
+      },
+      "retweet_count": 59,
+      "favorite_count": 4,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087151.197412",
+      "text": "La r\u00e9gulation va frapper $XRP durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 6084
+      },
+      "retweet_count": 40,
+      "favorite_count": 174,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087151.197791",
+      "text": "Je viens de vendre tout mon $XRP. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 9619
+      },
+      "retweet_count": 42,
+      "favorite_count": 145,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087151.197791",
+      "text": "J'adore $XRP! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 1624
+      },
+      "retweet_count": 95,
+      "favorite_count": 158,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087151.197791",
+      "text": "Comparaison int\u00e9ressante entre $XRP et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 2806
+      },
+      "retweet_count": 10,
+      "favorite_count": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087151.197791",
+      "text": "J'adore $XRP! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 4294
+      },
+      "retweet_count": 28,
+      "favorite_count": 176,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087151.198788",
+      "text": "J'adore $XRP! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 1687
+      },
+      "retweet_count": 56,
+      "favorite_count": 123,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087151.199232",
+      "text": "$XRP est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 2038
+      },
+      "retweet_count": 64,
+      "favorite_count": 109,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087151.199232",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $XRP ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 7035
+      },
+      "retweet_count": 0,
+      "favorite_count": 63,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087151.199232",
+      "text": "Comment voyez-vous $XRP dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 2201
+      },
+      "retweet_count": 52,
+      "favorite_count": 13,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087151.199783",
+      "text": "$XRP r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 8071
+      },
+      "retweet_count": 7,
+      "favorite_count": 114,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087151.199783",
+      "text": "$XRP est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 2603
+      },
+      "retweet_count": 52,
+      "favorite_count": 182,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087151.199783",
+      "text": "J'adore $XRP! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 3453
+      },
+      "retweet_count": 2,
+      "favorite_count": 9,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087151.199783",
+      "text": "J'adore $XRP! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 3925
+      },
+      "retweet_count": 71,
+      "favorite_count": 195,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087151.199783",
+      "text": "Le volume d'\u00e9changes de $XRP est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 5240
+      },
+      "retweet_count": 0,
+      "favorite_count": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087151.199783",
+      "text": "$XRP est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 8909
+      },
+      "retweet_count": 43,
+      "favorite_count": 63,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087151.20078",
+      "text": "$XRP est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 5321
+      },
+      "retweet_count": 81,
+      "favorite_count": 68,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087151.20078",
+      "text": "$XRP a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 8498
+      },
+      "retweet_count": 72,
+      "favorite_count": 23,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087151.20078",
+      "text": "$XRP est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 1050
+      },
+      "retweet_count": 0,
+      "favorite_count": 124,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087151.20078",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $XRP sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 553
+      },
+      "retweet_count": 81,
+      "favorite_count": 188,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087151.20078",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $XRP sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 4586
+      },
+      "retweet_count": 51,
+      "favorite_count": 20,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087151.201781",
+      "text": "Je viens de vendre tout mon $XRP. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 4814
+      },
+      "retweet_count": 97,
+      "favorite_count": 65,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087151.201781",
+      "text": "J'adore $XRP! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 1788
+      },
+      "retweet_count": 19,
+      "favorite_count": 109,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087151.201781",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $XRP? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 3625
+      },
+      "retweet_count": 1,
+      "favorite_count": 40,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087151.201781",
+      "text": "J'adore $XRP! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 1391
+      },
+      "retweet_count": 27,
+      "favorite_count": 150,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087151.201781",
+      "text": "Les probl\u00e8mes techniques de $XRP sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 1623
+      },
+      "retweet_count": 33,
+      "favorite_count": 19,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087151.201781",
+      "text": "$XRP est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 2616
+      },
+      "retweet_count": 40,
+      "favorite_count": 137,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087151.202778",
+      "text": "$XRP est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 6310
+      },
+      "retweet_count": 38,
+      "favorite_count": 107,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087151.202778",
+      "text": "La r\u00e9gulation va frapper $XRP durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 663
+      },
+      "retweet_count": 37,
+      "favorite_count": 22,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087151.202778",
+      "text": "$XRP est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 5168
+      },
+      "retweet_count": 52,
+      "favorite_count": 177,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087151.202778",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $XRP? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 5272
+      },
+      "retweet_count": 1,
+      "favorite_count": 175,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087151.202778",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $XRP sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 6591
+      },
+      "retweet_count": 53,
+      "favorite_count": 180,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087151.202778",
+      "text": "Le volume d'\u00e9changes de $XRP est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 6736
+      },
+      "retweet_count": 72,
+      "favorite_count": 99,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087151.203775",
+      "text": "Je viens de vendre tout mon $XRP. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 3929
+      },
+      "retweet_count": 82,
+      "favorite_count": 135,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087151.203775",
+      "text": "$XRP a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 3751
+      },
+      "retweet_count": 57,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087151.203775",
+      "text": "$XRP a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 9048
+      },
+      "retweet_count": 69,
+      "favorite_count": 8,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087151.205099",
+      "text": "$XRP est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 5508
+      },
+      "retweet_count": 81,
+      "favorite_count": 159,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087151.205768",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $XRP? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 4660
+      },
+      "retweet_count": 1,
+      "favorite_count": 41,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087151.2062",
+      "text": "Les probl\u00e8mes techniques de $XRP sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 8041
+      },
+      "retweet_count": 66,
+      "favorite_count": 106,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087151.2062",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $XRP ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 1855
+      },
+      "retweet_count": 87,
+      "favorite_count": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087151.2062",
+      "text": "$XRP a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 6801
+      },
+      "retweet_count": 58,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087151.206768",
+      "text": "J'adore $XRP! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 5890
+      },
+      "retweet_count": 70,
+      "favorite_count": 19,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087151.206768",
+      "text": "$XRP r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 8774
+      },
+      "retweet_count": 40,
+      "favorite_count": 120,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087151.206768",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $XRP sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 1402
+      },
+      "retweet_count": 18,
+      "favorite_count": 64,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087151.207842",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $XRP sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 5820
+      },
+      "retweet_count": 73,
+      "favorite_count": 7,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087151.207842",
+      "text": "$XRP est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 3062
+      },
+      "retweet_count": 49,
+      "favorite_count": 35,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087151.208945",
+      "text": "Vient d'acheter plus de $XRP. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 3034
+      },
+      "retweet_count": 55,
+      "favorite_count": 73,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087151.208945",
+      "text": "$XRP est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 7840
+      },
+      "retweet_count": 87,
+      "favorite_count": 109,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087151.208945",
+      "text": "La r\u00e9gulation va frapper $XRP durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 1976
+      },
+      "retweet_count": 18,
+      "favorite_count": 171,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087151.209757",
+      "text": "$XRP a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 7267
+      },
+      "retweet_count": 20,
+      "favorite_count": 26,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087151.209757",
+      "text": "J'adore $XRP! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 9056
+      },
+      "retweet_count": 49,
+      "favorite_count": 41,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087151.209757",
+      "text": "$XRP a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 5133
+      },
+      "retweet_count": 60,
+      "favorite_count": 113,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087151.209757",
+      "text": "Les probl\u00e8mes techniques de $XRP sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 2847
+      },
+      "retweet_count": 26,
+      "favorite_count": 153,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087151.211898",
+      "text": "Les probl\u00e8mes techniques de $XRP sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 8760
+      },
+      "retweet_count": 75,
+      "favorite_count": 134,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087151.21275",
+      "text": "$XRP est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 4864
+      },
+      "retweet_count": 93,
+      "favorite_count": 34,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087151.214744",
+      "text": "$XRP est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 469
+      },
+      "retweet_count": 86,
+      "favorite_count": 6,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087151.218734",
+      "text": "$XRP a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 4348
+      },
+      "retweet_count": 33,
+      "favorite_count": 171,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087151.21973",
+      "text": "$XRP a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 1216
+      },
+      "retweet_count": 75,
+      "favorite_count": 120,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087151.21973",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $XRP? #crypto #info",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 6012
+      },
+      "retweet_count": 55,
+      "favorite_count": 46,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087151.22073",
+      "text": "Je viens de vendre tout mon $XRP. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 3227
+      },
+      "retweet_count": 93,
+      "favorite_count": 143,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087151.22073",
+      "text": "Le volume d'\u00e9changes de $XRP est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 7100
+      },
+      "retweet_count": 79,
+      "favorite_count": 192,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087151.221725",
+      "text": "Je viens de vendre tout mon $XRP. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 401
+      },
+      "retweet_count": 94,
+      "favorite_count": 143,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087151.22229",
+      "text": "$XRP r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 9057
+      },
+      "retweet_count": 95,
+      "favorite_count": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087151.222756",
+      "text": "Les probl\u00e8mes techniques de $XRP sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 6756
+      },
+      "retweet_count": 82,
+      "favorite_count": 71,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087151.222756",
+      "text": "Je viens de vendre tout mon $XRP. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 2205
+      },
+      "retweet_count": 24,
+      "favorite_count": 168,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087151.224717",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $XRP ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 8013
+      },
+      "retweet_count": 43,
+      "favorite_count": 158,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087151.224717",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $XRP ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 6576
+      },
+      "retweet_count": 88,
+      "favorite_count": 119,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    }
+  ],
+  "popular_tweets": [
+    {
+      "id": "tweet_20_1743087151.115422",
+      "text": "Ripple est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 8865
+      },
+      "retweet_count": 85,
+      "favorite_count": 196,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087151.144347",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Ripple ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 8672
+      },
+      "retweet_count": 96,
+      "favorite_count": 180,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087151.159305",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 5723
+      },
+      "retweet_count": 82,
+      "favorite_count": 194,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087151.130622",
+      "text": "Comparaison int\u00e9ressante entre Ripple et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 8013
+      },
+      "retweet_count": 84,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087151.123401",
+      "text": "Le volume d'\u00e9changes de Ripple est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:31",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 2759
+      },
+      "retweet_count": 85,
+      "favorite_count": 189,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    }
+  ],
+  "timestamp": "2025-03-27 15:52:31"
+}

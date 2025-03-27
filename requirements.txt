@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jinja2
+markdown
+textblob
+yfinance
+requests
+python-dotenv
+tweepy
+etherscan-python
+blockchair
+coingecko

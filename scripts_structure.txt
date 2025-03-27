@@ -1,0 +1,105 @@
+# Create a scripts directory and required Python wrapper files
+
+1. Create a scripts directory:
+   mkdir c:\Users\bahik\Desktop\crypto_bot\scripts
+
+2. Create the following Python files in the scripts directory:
+
+   a. run_data_collection.py:
+   ```python
+   # Script to run data collection
+   import sys
+   import os
+   
+   # Add parent directory to path so we can import modules
+   sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+   
+   # Import and run the actual implementation
+   from data.collect_data import main
+   
+   if __name__ == "__main__":
+       main()
+   ```
+
+   b. run_technical_analysis.py:
+   ```python
+   # Script to run technical analysis
+   import sys
+   import os
+   
+   # Add parent directory to path so we can import modules
+   sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+   
+   # Import and run the actual implementation
+   from analysis.technical_indicators import main
+   
+   if __name__ == "__main__":
+       main()
+   ```
+
+   c. run_sentiment_analysis.py:
+   ```python
+   # Script to run sentiment analysis
+   import sys
+   import os
+   
+   # Add parent directory to path so we can import modules
+   sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+   
+   # Import and run the actual implementation
+   from analysis.sentiment_analysis import main
+   
+   if __name__ == "__main__":
+       main()
+   ```
+
+   d. run_onchain_analysis.py:
+   ```python
+   # Script to run on-chain analysis
+   import sys
+   import os
+   
+   # Add parent directory to path so we can import modules
+   sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+   
+   # Import and run the actual implementation
+   from analysis.on_chain_analysis import main
+   
+   if __name__ == "__main__":
+       main()
+   ```
+
+   e. run_prediction.py:
+   ```python
+   # Script to run prediction system
+   import sys
+   import os
+   
+   # Add parent directory to path so we can import modules
+   sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+   
+   # Import and run the actual implementation
+   from prediction.prediction_system import main
+   
+   if __name__ == "__main__":
+       main()
+   ```
+
+   f. run_newsletters.py:
+   ```python
+   # Script to generate newsletters
+   import sys
+   import os
+   
+   # Add parent directory to path so we can import modules
+   sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+   
+   # Import and run the actual implementation
+   from newsletters.newsletter_generator import main
+   
+   if __name__ == "__main__":
+       main()
+   ```
+
+Note: This assumes each implementation file has a 'main()' function. 
+If they don't, you'll need to identify the correct entry point function for each module.

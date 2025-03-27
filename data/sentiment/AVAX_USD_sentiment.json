@@ -1,0 +1,5285 @@
+{
+  "symbol": "AVAX-USD",
+  "name": "Avalanche",
+  "sentiment_score": 0.0,
+  "sentiment_label": "Neutre",
+  "tweet_count": 400,
+  "positive_count": 0,
+  "negative_count": 0,
+  "neutral_count": 400,
+  "sentiment_percentages": {
+    "positive": 0.0,
+    "negative": 0.0,
+    "neutral": 100.0
+  },
+  "tweets": [
+    {
+      "id": "tweet_0_1743087152.009059",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 5327
+      },
+      "retweet_count": 74,
+      "favorite_count": 103,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087152.009059",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 1875
+      },
+      "retweet_count": 93,
+      "favorite_count": 185,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087152.009059",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 371
+      },
+      "retweet_count": 15,
+      "favorite_count": 189,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087152.009059",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 8585
+      },
+      "retweet_count": 69,
+      "favorite_count": 151,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087152.009059",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 7726
+      },
+      "retweet_count": 1,
+      "favorite_count": 137,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087152.009059",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 9337
+      },
+      "retweet_count": 98,
+      "favorite_count": 28,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087152.009059",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 1751
+      },
+      "retweet_count": 82,
+      "favorite_count": 34,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087152.010057",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 1748
+      },
+      "retweet_count": 50,
+      "favorite_count": 38,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087152.010057",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 280
+      },
+      "retweet_count": 96,
+      "favorite_count": 120,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087152.010057",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 9341
+      },
+      "retweet_count": 10,
+      "favorite_count": 143,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087152.010057",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 1715
+      },
+      "retweet_count": 37,
+      "favorite_count": 193,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087152.010057",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 3876
+      },
+      "retweet_count": 46,
+      "favorite_count": 84,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087152.010057",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 1751
+      },
+      "retweet_count": 0,
+      "favorite_count": 182,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087152.010057",
+      "text": "Comparaison int\u00e9ressante entre Avalanche et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 5454
+      },
+      "retweet_count": 33,
+      "favorite_count": 132,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087152.010057",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 5961
+      },
+      "retweet_count": 7,
+      "favorite_count": 174,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087152.011053",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 6203
+      },
+      "retweet_count": 86,
+      "favorite_count": 159,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087152.011053",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 2083
+      },
+      "retweet_count": 35,
+      "favorite_count": 22,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087152.011053",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 9340
+      },
+      "retweet_count": 48,
+      "favorite_count": 3,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087152.011053",
+      "text": "Comparaison int\u00e9ressante entre Avalanche et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 4016
+      },
+      "retweet_count": 20,
+      "favorite_count": 4,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087152.011053",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 300
+      },
+      "retweet_count": 91,
+      "favorite_count": 7,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087152.011053",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 4772
+      },
+      "retweet_count": 87,
+      "favorite_count": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087152.011053",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 2861
+      },
+      "retweet_count": 35,
+      "favorite_count": 12,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087152.011053",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 6303
+      },
+      "retweet_count": 36,
+      "favorite_count": 137,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087152.011053",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 3686
+      },
+      "retweet_count": 47,
+      "favorite_count": 38,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087152.01205",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 552
+      },
+      "retweet_count": 6,
+      "favorite_count": 133,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087152.01205",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 4554
+      },
+      "retweet_count": 66,
+      "favorite_count": 185,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087152.01205",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 769
+      },
+      "retweet_count": 4,
+      "favorite_count": 167,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087152.01205",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 4045
+      },
+      "retweet_count": 29,
+      "favorite_count": 158,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087152.01205",
+      "text": "Comparaison int\u00e9ressante entre Avalanche et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 754
+      },
+      "retweet_count": 99,
+      "favorite_count": 84,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087152.012811",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 281
+      },
+      "retweet_count": 6,
+      "favorite_count": 93,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087152.013049",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 7557
+      },
+      "retweet_count": 18,
+      "favorite_count": 196,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087152.013049",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 326
+      },
+      "retweet_count": 21,
+      "favorite_count": 85,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087152.013049",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 4797
+      },
+      "retweet_count": 40,
+      "favorite_count": 68,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087152.013049",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 8624
+      },
+      "retweet_count": 97,
+      "favorite_count": 65,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087152.013049",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 4271
+      },
+      "retweet_count": 40,
+      "favorite_count": 85,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087152.013049",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 8663
+      },
+      "retweet_count": 60,
+      "favorite_count": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087152.013049",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 9425
+      },
+      "retweet_count": 8,
+      "favorite_count": 175,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087152.013049",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 6762
+      },
+      "retweet_count": 14,
+      "favorite_count": 172,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087152.013049",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 9565
+      },
+      "retweet_count": 86,
+      "favorite_count": 7,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087152.014045",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 9874
+      },
+      "retweet_count": 36,
+      "favorite_count": 173,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087152.014045",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 7423
+      },
+      "retweet_count": 29,
+      "favorite_count": 139,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087152.014045",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 2254
+      },
+      "retweet_count": 63,
+      "favorite_count": 64,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087152.014045",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 6836
+      },
+      "retweet_count": 1,
+      "favorite_count": 94,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087152.014045",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 5959
+      },
+      "retweet_count": 1,
+      "favorite_count": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087152.014045",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 4649
+      },
+      "retweet_count": 91,
+      "favorite_count": 19,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087152.014045",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 5084
+      },
+      "retweet_count": 48,
+      "favorite_count": 124,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087152.014045",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 619
+      },
+      "retweet_count": 19,
+      "favorite_count": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087152.015043",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 3076
+      },
+      "retweet_count": 23,
+      "favorite_count": 85,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087152.015043",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 9935
+      },
+      "retweet_count": 33,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087152.015043",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 7859
+      },
+      "retweet_count": 96,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087152.015043",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 9373
+      },
+      "retweet_count": 0,
+      "favorite_count": 129,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087152.015043",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 1617
+      },
+      "retweet_count": 32,
+      "favorite_count": 33,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087152.015043",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 6512
+      },
+      "retweet_count": 14,
+      "favorite_count": 126,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087152.015043",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 3853
+      },
+      "retweet_count": 73,
+      "favorite_count": 44,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087152.015043",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 8640
+      },
+      "retweet_count": 14,
+      "favorite_count": 125,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087152.015043",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 1117
+      },
+      "retweet_count": 69,
+      "favorite_count": 114,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087152.01604",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 3899
+      },
+      "retweet_count": 91,
+      "favorite_count": 53,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087152.01604",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 1405
+      },
+      "retweet_count": 55,
+      "favorite_count": 135,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087152.01604",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 7928
+      },
+      "retweet_count": 41,
+      "favorite_count": 120,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087152.01604",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 5892
+      },
+      "retweet_count": 95,
+      "favorite_count": 185,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087152.01604",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 6088
+      },
+      "retweet_count": 26,
+      "favorite_count": 13,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087152.01604",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 3055
+      },
+      "retweet_count": 98,
+      "favorite_count": 187,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087152.01604",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 9071
+      },
+      "retweet_count": 22,
+      "favorite_count": 32,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087152.01604",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 8732
+      },
+      "retweet_count": 5,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087152.01604",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 6570
+      },
+      "retweet_count": 56,
+      "favorite_count": 138,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087152.017037",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 489
+      },
+      "retweet_count": 71,
+      "favorite_count": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087152.017037",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 3929
+      },
+      "retweet_count": 33,
+      "favorite_count": 18,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087152.017037",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 7839
+      },
+      "retweet_count": 51,
+      "favorite_count": 188,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087152.017037",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 4993
+      },
+      "retweet_count": 96,
+      "favorite_count": 18,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087152.017037",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 5076
+      },
+      "retweet_count": 75,
+      "favorite_count": 30,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087152.017037",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 7449
+      },
+      "retweet_count": 78,
+      "favorite_count": 104,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087152.017037",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 8315
+      },
+      "retweet_count": 28,
+      "favorite_count": 10,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087152.017037",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 284
+      },
+      "retweet_count": 96,
+      "favorite_count": 16,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087152.017037",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 8861
+      },
+      "retweet_count": 97,
+      "favorite_count": 67,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087152.017037",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 7176
+      },
+      "retweet_count": 66,
+      "favorite_count": 24,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087152.018034",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 6857
+      },
+      "retweet_count": 50,
+      "favorite_count": 136,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087152.018034",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 4754
+      },
+      "retweet_count": 2,
+      "favorite_count": 63,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087152.018034",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 8992
+      },
+      "retweet_count": 62,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087152.018034",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 3146
+      },
+      "retweet_count": 2,
+      "favorite_count": 74,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087152.018034",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 3660
+      },
+      "retweet_count": 17,
+      "favorite_count": 118,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087152.018034",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 3957
+      },
+      "retweet_count": 10,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087152.018034",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 567
+      },
+      "retweet_count": 45,
+      "favorite_count": 190,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087152.019033",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 9926
+      },
+      "retweet_count": 32,
+      "favorite_count": 152,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087152.019033",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 2628
+      },
+      "retweet_count": 55,
+      "favorite_count": 178,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087152.019033",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 2024
+      },
+      "retweet_count": 65,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087152.019033",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 6852
+      },
+      "retweet_count": 91,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087152.019033",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 2695
+      },
+      "retweet_count": 97,
+      "favorite_count": 44,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087152.019033",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 9613
+      },
+      "retweet_count": 59,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087152.019033",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 5476
+      },
+      "retweet_count": 71,
+      "favorite_count": 139,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087152.019033",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 8960
+      },
+      "retweet_count": 0,
+      "favorite_count": 138,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087152.019033",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 353
+      },
+      "retweet_count": 33,
+      "favorite_count": 44,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087152.019033",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 2112
+      },
+      "retweet_count": 60,
+      "favorite_count": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087152.02003",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 1157
+      },
+      "retweet_count": 56,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087152.02003",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 3225
+      },
+      "retweet_count": 97,
+      "favorite_count": 146,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087152.021027",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 2997
+      },
+      "retweet_count": 94,
+      "favorite_count": 173,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087152.021027",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 3513
+      },
+      "retweet_count": 17,
+      "favorite_count": 103,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087152.021027",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 994
+      },
+      "retweet_count": 11,
+      "favorite_count": 92,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087152.021027",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 5291
+      },
+      "retweet_count": 36,
+      "favorite_count": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087152.021027",
+      "text": "Comparaison int\u00e9ressante entre Avalanche et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 2114
+      },
+      "retweet_count": 35,
+      "favorite_count": 182,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087152.021027",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 3475
+      },
+      "retweet_count": 46,
+      "favorite_count": 33,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_0_1743087152.023022",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 6507
+      },
+      "retweet_count": 32,
+      "favorite_count": 155,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087152.023022",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 3101
+      },
+      "retweet_count": 86,
+      "favorite_count": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087152.023022",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 7276
+      },
+      "retweet_count": 15,
+      "favorite_count": 26,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087152.023022",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 5335
+      },
+      "retweet_count": 39,
+      "favorite_count": 29,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087152.02402",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 4514
+      },
+      "retweet_count": 90,
+      "favorite_count": 6,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087152.02402",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 5636
+      },
+      "retweet_count": 52,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087152.02402",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 1222
+      },
+      "retweet_count": 77,
+      "favorite_count": 45,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087152.02402",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 4496
+      },
+      "retweet_count": 37,
+      "favorite_count": 35,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087152.02402",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 330
+      },
+      "retweet_count": 26,
+      "favorite_count": 103,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087152.02402",
+      "text": "Comparaison int\u00e9ressante entre Avalanche et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 8972
+      },
+      "retweet_count": 68,
+      "favorite_count": 155,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087152.025016",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 1281
+      },
+      "retweet_count": 53,
+      "favorite_count": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087152.025016",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 3038
+      },
+      "retweet_count": 27,
+      "favorite_count": 96,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087152.025016",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 2852
+      },
+      "retweet_count": 94,
+      "favorite_count": 59,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087152.025016",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 1887
+      },
+      "retweet_count": 48,
+      "favorite_count": 195,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087152.025016",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 5451
+      },
+      "retweet_count": 71,
+      "favorite_count": 126,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087152.025016",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 9729
+      },
+      "retweet_count": 81,
+      "favorite_count": 194,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087152.025016",
+      "text": "Comparaison int\u00e9ressante entre Avalanche et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 7820
+      },
+      "retweet_count": 43,
+      "favorite_count": 135,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087152.026016",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 7089
+      },
+      "retweet_count": 83,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087152.026016",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 1637
+      },
+      "retweet_count": 7,
+      "favorite_count": 64,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087152.026016",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 6099
+      },
+      "retweet_count": 11,
+      "favorite_count": 147,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087152.026709",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 4462
+      },
+      "retweet_count": 42,
+      "favorite_count": 111,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087152.027013",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 4842
+      },
+      "retweet_count": 38,
+      "favorite_count": 35,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087152.027013",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 1108
+      },
+      "retweet_count": 25,
+      "favorite_count": 44,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087152.027013",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 7879
+      },
+      "retweet_count": 35,
+      "favorite_count": 45,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087152.027013",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 2084
+      },
+      "retweet_count": 20,
+      "favorite_count": 52,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087152.028009",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 976
+      },
+      "retweet_count": 41,
+      "favorite_count": 25,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087152.028132",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 8640
+      },
+      "retweet_count": 89,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087152.028132",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 3460
+      },
+      "retweet_count": 70,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087152.028132",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 7751
+      },
+      "retweet_count": 56,
+      "favorite_count": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087152.028132",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 8252
+      },
+      "retweet_count": 64,
+      "favorite_count": 45,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087152.028132",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 6185
+      },
+      "retweet_count": 85,
+      "favorite_count": 116,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087152.029008",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 1402
+      },
+      "retweet_count": 94,
+      "favorite_count": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087152.029008",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 2748
+      },
+      "retweet_count": 90,
+      "favorite_count": 101,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087152.029008",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 9031
+      },
+      "retweet_count": 20,
+      "favorite_count": 43,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087152.029008",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 3699
+      },
+      "retweet_count": 17,
+      "favorite_count": 101,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087152.029008",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 4703
+      },
+      "retweet_count": 52,
+      "favorite_count": 183,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087152.029008",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 8453
+      },
+      "retweet_count": 70,
+      "favorite_count": 65,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087152.030005",
+      "text": "Comparaison int\u00e9ressante entre Avalanche et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 1848
+      },
+      "retweet_count": 49,
+      "favorite_count": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087152.030005",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 658
+      },
+      "retweet_count": 78,
+      "favorite_count": 111,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087152.030005",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 8311
+      },
+      "retweet_count": 92,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087152.030005",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 1378
+      },
+      "retweet_count": 39,
+      "favorite_count": 111,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087152.030005",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 7826
+      },
+      "retweet_count": 40,
+      "favorite_count": 11,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087152.031001",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 4424
+      },
+      "retweet_count": 23,
+      "favorite_count": 123,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087152.031001",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 7981
+      },
+      "retweet_count": 58,
+      "favorite_count": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087152.031001",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 8955
+      },
+      "retweet_count": 40,
+      "favorite_count": 98,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087152.031001",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 1605
+      },
+      "retweet_count": 38,
+      "favorite_count": 51,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087152.032",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 1455
+      },
+      "retweet_count": 93,
+      "favorite_count": 98,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087152.032",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 990
+      },
+      "retweet_count": 18,
+      "favorite_count": 117,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087152.032",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 2287
+      },
+      "retweet_count": 31,
+      "favorite_count": 14,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087152.032",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 9608
+      },
+      "retweet_count": 94,
+      "favorite_count": 53,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087152.032",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 3102
+      },
+      "retweet_count": 65,
+      "favorite_count": 158,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087152.032",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 8238
+      },
+      "retweet_count": 23,
+      "favorite_count": 159,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087152.032",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 8366
+      },
+      "retweet_count": 69,
+      "favorite_count": 146,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087152.032",
+      "text": "Comparaison int\u00e9ressante entre Avalanche et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 5624
+      },
+      "retweet_count": 94,
+      "favorite_count": 155,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087152.032",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 565
+      },
+      "retweet_count": 41,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087152.032998",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 4045
+      },
+      "retweet_count": 81,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087152.032998",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 1340
+      },
+      "retweet_count": 61,
+      "favorite_count": 59,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087152.032998",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 5523
+      },
+      "retweet_count": 62,
+      "favorite_count": 157,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087152.032998",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 9259
+      },
+      "retweet_count": 31,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087152.032998",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 3956
+      },
+      "retweet_count": 8,
+      "favorite_count": 110,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087152.032998",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 1769
+      },
+      "retweet_count": 96,
+      "favorite_count": 150,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087152.032998",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 7637
+      },
+      "retweet_count": 90,
+      "favorite_count": 136,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087152.032998",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 3910
+      },
+      "retweet_count": 48,
+      "favorite_count": 32,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087152.033995",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 3073
+      },
+      "retweet_count": 69,
+      "favorite_count": 194,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087152.033995",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 2527
+      },
+      "retweet_count": 4,
+      "favorite_count": 135,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087152.033995",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 3091
+      },
+      "retweet_count": 37,
+      "favorite_count": 46,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087152.033995",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 904
+      },
+      "retweet_count": 34,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087152.033995",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 5208
+      },
+      "retweet_count": 10,
+      "favorite_count": 181,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087152.033995",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 5232
+      },
+      "retweet_count": 51,
+      "favorite_count": 40,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087152.033995",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 7615
+      },
+      "retweet_count": 32,
+      "favorite_count": 39,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087152.033995",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 4548
+      },
+      "retweet_count": 75,
+      "favorite_count": 35,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087152.034992",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 3594
+      },
+      "retweet_count": 46,
+      "favorite_count": 43,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087152.034992",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 3181
+      },
+      "retweet_count": 72,
+      "favorite_count": 70,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087152.034992",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 3191
+      },
+      "retweet_count": 94,
+      "favorite_count": 92,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087152.034992",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 7174
+      },
+      "retweet_count": 63,
+      "favorite_count": 143,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087152.034992",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 7610
+      },
+      "retweet_count": 53,
+      "favorite_count": 129,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087152.034992",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 2876
+      },
+      "retweet_count": 48,
+      "favorite_count": 182,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087152.034992",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 6848
+      },
+      "retweet_count": 69,
+      "favorite_count": 126,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087152.03605",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 3722
+      },
+      "retweet_count": 12,
+      "favorite_count": 110,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087152.03605",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 7126
+      },
+      "retweet_count": 1,
+      "favorite_count": 17,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087152.03605",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 1775
+      },
+      "retweet_count": 86,
+      "favorite_count": 108,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087152.036986",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 3848
+      },
+      "retweet_count": 30,
+      "favorite_count": 133,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087152.036986",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 129
+      },
+      "retweet_count": 19,
+      "favorite_count": 142,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087152.036986",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 4554
+      },
+      "retweet_count": 24,
+      "favorite_count": 127,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087152.036986",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 1263
+      },
+      "retweet_count": 3,
+      "favorite_count": 167,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087152.036986",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 3203
+      },
+      "retweet_count": 14,
+      "favorite_count": 160,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087152.036986",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 4913
+      },
+      "retweet_count": 96,
+      "favorite_count": 27,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087152.036986",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 6547
+      },
+      "retweet_count": 68,
+      "favorite_count": 27,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087152.037982",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 7590
+      },
+      "retweet_count": 42,
+      "favorite_count": 64,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087152.037982",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 7589
+      },
+      "retweet_count": 51,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087152.037982",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 786
+      },
+      "retweet_count": 72,
+      "favorite_count": 99,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087152.037982",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 7706
+      },
+      "retweet_count": 83,
+      "favorite_count": 127,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087152.037982",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 5057
+      },
+      "retweet_count": 33,
+      "favorite_count": 111,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087152.037982",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 6553
+      },
+      "retweet_count": 8,
+      "favorite_count": 8,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087152.037982",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 2150
+      },
+      "retweet_count": 91,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087152.037982",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 4300
+      },
+      "retweet_count": 80,
+      "favorite_count": 51,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087152.038979",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 5540
+      },
+      "retweet_count": 46,
+      "favorite_count": 178,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087152.038979",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 5179
+      },
+      "retweet_count": 15,
+      "favorite_count": 173,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087152.038979",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 4672
+      },
+      "retweet_count": 69,
+      "favorite_count": 125,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087152.038979",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 9224
+      },
+      "retweet_count": 26,
+      "favorite_count": 182,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_0_1743087152.039976",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 4253
+      },
+      "retweet_count": 8,
+      "favorite_count": 104,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087152.039976",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 1048
+      },
+      "retweet_count": 73,
+      "favorite_count": 155,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087152.039976",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 7674
+      },
+      "retweet_count": 77,
+      "favorite_count": 97,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087152.039976",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 2045
+      },
+      "retweet_count": 88,
+      "favorite_count": 52,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087152.039976",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 6651
+      },
+      "retweet_count": 87,
+      "favorite_count": 94,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087152.039976",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 7908
+      },
+      "retweet_count": 83,
+      "favorite_count": 43,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087152.040976",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 1175
+      },
+      "retweet_count": 90,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087152.040976",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 6800
+      },
+      "retweet_count": 45,
+      "favorite_count": 175,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087152.040976",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 5901
+      },
+      "retweet_count": 22,
+      "favorite_count": 71,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087152.040976",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 4574
+      },
+      "retweet_count": 89,
+      "favorite_count": 190,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087152.040976",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 2186
+      },
+      "retweet_count": 77,
+      "favorite_count": 37,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087152.040976",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 2668
+      },
+      "retweet_count": 17,
+      "favorite_count": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087152.040976",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 2687
+      },
+      "retweet_count": 13,
+      "favorite_count": 149,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087152.040976",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 709
+      },
+      "retweet_count": 41,
+      "favorite_count": 193,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087152.041973",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 1179
+      },
+      "retweet_count": 14,
+      "favorite_count": 92,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087152.041973",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 8567
+      },
+      "retweet_count": 25,
+      "favorite_count": 27,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087152.041973",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 1887
+      },
+      "retweet_count": 96,
+      "favorite_count": 126,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087152.041973",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 2435
+      },
+      "retweet_count": 37,
+      "favorite_count": 64,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087152.041973",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 8425
+      },
+      "retweet_count": 76,
+      "favorite_count": 139,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087152.041973",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 1037
+      },
+      "retweet_count": 14,
+      "favorite_count": 4,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087152.041973",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 4115
+      },
+      "retweet_count": 39,
+      "favorite_count": 17,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087152.041973",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 5523
+      },
+      "retweet_count": 88,
+      "favorite_count": 133,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087152.042971",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 6054
+      },
+      "retweet_count": 95,
+      "favorite_count": 172,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087152.042971",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 1683
+      },
+      "retweet_count": 64,
+      "favorite_count": 127,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087152.042971",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 6988
+      },
+      "retweet_count": 72,
+      "favorite_count": 17,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087152.043577",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 5074
+      },
+      "retweet_count": 52,
+      "favorite_count": 123,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087152.043577",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 4791
+      },
+      "retweet_count": 68,
+      "favorite_count": 9,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087152.043966",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 9297
+      },
+      "retweet_count": 10,
+      "favorite_count": 102,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087152.043966",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 9286
+      },
+      "retweet_count": 82,
+      "favorite_count": 3,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087152.043966",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 5718
+      },
+      "retweet_count": 82,
+      "favorite_count": 51,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087152.043966",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 6828
+      },
+      "retweet_count": 88,
+      "favorite_count": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087152.043966",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 9687
+      },
+      "retweet_count": 26,
+      "favorite_count": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087152.043966",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 3449
+      },
+      "retweet_count": 86,
+      "favorite_count": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087152.043966",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 5493
+      },
+      "retweet_count": 54,
+      "favorite_count": 41,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087152.044964",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 723
+      },
+      "retweet_count": 35,
+      "favorite_count": 104,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087152.044964",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 593
+      },
+      "retweet_count": 87,
+      "favorite_count": 138,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087152.044964",
+      "text": "Comparaison int\u00e9ressante entre Avalanche et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 6916
+      },
+      "retweet_count": 47,
+      "favorite_count": 10,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087152.044964",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 4752
+      },
+      "retweet_count": 32,
+      "favorite_count": 175,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087152.044964",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 9378
+      },
+      "retweet_count": 12,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087152.044964",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 5343
+      },
+      "retweet_count": 19,
+      "favorite_count": 157,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087152.044964",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 5831
+      },
+      "retweet_count": 97,
+      "favorite_count": 87,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087152.045961",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 314
+      },
+      "retweet_count": 74,
+      "favorite_count": 51,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087152.045978",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 1286
+      },
+      "retweet_count": 83,
+      "favorite_count": 99,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087152.045978",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 9513
+      },
+      "retweet_count": 72,
+      "favorite_count": 199,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087152.045978",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 7480
+      },
+      "retweet_count": 59,
+      "favorite_count": 169,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087152.046958",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 8332
+      },
+      "retweet_count": 14,
+      "favorite_count": 145,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087152.046958",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 4840
+      },
+      "retweet_count": 58,
+      "favorite_count": 137,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087152.046958",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 7361
+      },
+      "retweet_count": 38,
+      "favorite_count": 165,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087152.046958",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 3886
+      },
+      "retweet_count": 99,
+      "favorite_count": 4,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087152.047625",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 1312
+      },
+      "retweet_count": 66,
+      "favorite_count": 102,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087152.047625",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 5277
+      },
+      "retweet_count": 30,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087152.047625",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 1605
+      },
+      "retweet_count": 53,
+      "favorite_count": 64,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087152.047955",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 7173
+      },
+      "retweet_count": 18,
+      "favorite_count": 83,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087152.047955",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 1683
+      },
+      "retweet_count": 50,
+      "favorite_count": 186,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087152.047955",
+      "text": "Comparaison int\u00e9ressante entre Avalanche et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 3392
+      },
+      "retweet_count": 52,
+      "favorite_count": 119,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087152.047955",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 8387
+      },
+      "retweet_count": 79,
+      "favorite_count": 159,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087152.047955",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 3498
+      },
+      "retweet_count": 35,
+      "favorite_count": 36,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087152.047955",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 4407
+      },
+      "retweet_count": 43,
+      "favorite_count": 101,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087152.047955",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 9892
+      },
+      "retweet_count": 96,
+      "favorite_count": 95,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087152.047955",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 2919
+      },
+      "retweet_count": 37,
+      "favorite_count": 130,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087152.048952",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 1934
+      },
+      "retweet_count": 75,
+      "favorite_count": 195,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087152.048952",
+      "text": "Comparaison int\u00e9ressante entre Avalanche et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 5479
+      },
+      "retweet_count": 60,
+      "favorite_count": 13,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087152.048952",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 8486
+      },
+      "retweet_count": 8,
+      "favorite_count": 11,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087152.048952",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 6798
+      },
+      "retweet_count": 82,
+      "favorite_count": 24,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087152.048952",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 1663
+      },
+      "retweet_count": 46,
+      "favorite_count": 38,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087152.048952",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 5721
+      },
+      "retweet_count": 16,
+      "favorite_count": 144,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087152.048952",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 1233
+      },
+      "retweet_count": 57,
+      "favorite_count": 152,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087152.049952",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 571
+      },
+      "retweet_count": 12,
+      "favorite_count": 45,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087152.049952",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 9623
+      },
+      "retweet_count": 5,
+      "favorite_count": 84,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087152.049952",
+      "text": "Vient d'acheter plus de Avalanche. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 8576
+      },
+      "retweet_count": 21,
+      "favorite_count": 95,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087152.049952",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 7811
+      },
+      "retweet_count": 25,
+      "favorite_count": 22,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087152.049952",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 9372
+      },
+      "retweet_count": 87,
+      "favorite_count": 132,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087152.049952",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 3633
+      },
+      "retweet_count": 76,
+      "favorite_count": 156,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087152.049952",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 9494
+      },
+      "retweet_count": 71,
+      "favorite_count": 187,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087152.049952",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 304
+      },
+      "retweet_count": 32,
+      "favorite_count": 182,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087152.049952",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 5612
+      },
+      "retweet_count": 46,
+      "favorite_count": 182,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087152.051062",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 3315
+      },
+      "retweet_count": 23,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087152.051062",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Avalanche? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 5271
+      },
+      "retweet_count": 37,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087152.052002",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 4592
+      },
+      "retweet_count": 69,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087152.052002",
+      "text": "J'adore Avalanche! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 3295
+      },
+      "retweet_count": 86,
+      "favorite_count": 177,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087152.052002",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 141
+      },
+      "retweet_count": 65,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087152.052002",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 1849
+      },
+      "retweet_count": 88,
+      "favorite_count": 133,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087152.052945",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 4040
+      },
+      "retweet_count": 54,
+      "favorite_count": 46,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087152.052945",
+      "text": "Avalanche r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 4492
+      },
+      "retweet_count": 47,
+      "favorite_count": 69,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087152.052945",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 7364
+      },
+      "retweet_count": 61,
+      "favorite_count": 169,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087152.052945",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 4833
+      },
+      "retweet_count": 8,
+      "favorite_count": 135,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087152.05394",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 8548
+      },
+      "retweet_count": 84,
+      "favorite_count": 73,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087152.05394",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 4974
+      },
+      "retweet_count": 40,
+      "favorite_count": 113,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087152.05394",
+      "text": "Avalanche est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 5903
+      },
+      "retweet_count": 47,
+      "favorite_count": 132,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087152.05394",
+      "text": "Comment voyez-vous Avalanche dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 4154
+      },
+      "retweet_count": 12,
+      "favorite_count": 163,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087152.05394",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 7613
+      },
+      "retweet_count": 30,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087152.05394",
+      "text": "Le volume d'\u00e9changes de Avalanche est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 7661
+      },
+      "retweet_count": 59,
+      "favorite_count": 30,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087152.05394",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 9171
+      },
+      "retweet_count": 66,
+      "favorite_count": 190,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087152.054937",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 3832
+      },
+      "retweet_count": 45,
+      "favorite_count": 112,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087152.054937",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Avalanche sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 3916
+      },
+      "retweet_count": 63,
+      "favorite_count": 186,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087152.054937",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 6695
+      },
+      "retweet_count": 84,
+      "favorite_count": 196,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087152.054937",
+      "text": "Avalanche a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 1500
+      },
+      "retweet_count": 39,
+      "favorite_count": 103,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087152.054937",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Avalanche ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 6172
+      },
+      "retweet_count": 26,
+      "favorite_count": 111,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087152.054937",
+      "text": "Avalanche est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 2261
+      },
+      "retweet_count": 39,
+      "favorite_count": 118,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087152.054937",
+      "text": "Les probl\u00e8mes techniques de Avalanche sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 1360
+      },
+      "retweet_count": 48,
+      "favorite_count": 159,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_0_1743087152.057574",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $AVAX ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 2899
+      },
+      "retweet_count": 65,
+      "favorite_count": 165,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087152.058094",
+      "text": "Les probl\u00e8mes techniques de $AVAX sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 6378
+      },
+      "retweet_count": 99,
+      "favorite_count": 186,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087152.058094",
+      "text": "$AVAX est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 1876
+      },
+      "retweet_count": 45,
+      "favorite_count": 45,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087152.058094",
+      "text": "$AVAX a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 5180
+      },
+      "retweet_count": 62,
+      "favorite_count": 81,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087152.058094",
+      "text": "Vient d'acheter plus de $AVAX. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 4582
+      },
+      "retweet_count": 2,
+      "favorite_count": 187,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087152.058927",
+      "text": "Le volume d'\u00e9changes de $AVAX est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 727
+      },
+      "retweet_count": 5,
+      "favorite_count": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087152.058927",
+      "text": "$AVAX a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 2651
+      },
+      "retweet_count": 82,
+      "favorite_count": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087152.058927",
+      "text": "J'adore $AVAX! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 8722
+      },
+      "retweet_count": 70,
+      "favorite_count": 64,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087152.058927",
+      "text": "Vient d'acheter plus de $AVAX. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 3419
+      },
+      "retweet_count": 40,
+      "favorite_count": 133,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087152.058927",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $AVAX sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 3147
+      },
+      "retweet_count": 42,
+      "favorite_count": 12,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087152.058927",
+      "text": "$AVAX r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 2085
+      },
+      "retweet_count": 11,
+      "favorite_count": 26,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087152.058927",
+      "text": "La r\u00e9gulation va frapper $AVAX durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 3414
+      },
+      "retweet_count": 18,
+      "favorite_count": 11,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087152.058927",
+      "text": "$AVAX est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 5396
+      },
+      "retweet_count": 82,
+      "favorite_count": 177,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087152.059925",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $AVAX ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 2038
+      },
+      "retweet_count": 51,
+      "favorite_count": 151,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087152.059925",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $AVAX? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 446
+      },
+      "retweet_count": 5,
+      "favorite_count": 117,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087152.059925",
+      "text": "Les probl\u00e8mes techniques de $AVAX sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 2311
+      },
+      "retweet_count": 48,
+      "favorite_count": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087152.059925",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $AVAX? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 4916
+      },
+      "retweet_count": 94,
+      "favorite_count": 50,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087152.060462",
+      "text": "La r\u00e9gulation va frapper $AVAX durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 4660
+      },
+      "retweet_count": 95,
+      "favorite_count": 36,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087152.060462",
+      "text": "J'adore $AVAX! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 3351
+      },
+      "retweet_count": 9,
+      "favorite_count": 67,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087152.060462",
+      "text": "$AVAX est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 7352
+      },
+      "retweet_count": 3,
+      "favorite_count": 95,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087152.060462",
+      "text": "Vient d'acheter plus de $AVAX. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 7952
+      },
+      "retweet_count": 2,
+      "favorite_count": 22,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087152.060462",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $AVAX ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 9725
+      },
+      "retweet_count": 22,
+      "favorite_count": 67,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087152.060462",
+      "text": "La r\u00e9gulation va frapper $AVAX durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 3618
+      },
+      "retweet_count": 41,
+      "favorite_count": 137,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087152.060462",
+      "text": "Vient d'acheter plus de $AVAX. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 9863
+      },
+      "retweet_count": 80,
+      "favorite_count": 199,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087152.060462",
+      "text": "J'adore $AVAX! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 2134
+      },
+      "retweet_count": 37,
+      "favorite_count": 68,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087152.060462",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $AVAX ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 5465
+      },
+      "retweet_count": 46,
+      "favorite_count": 99,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087152.061448",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $AVAX sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 4691
+      },
+      "retweet_count": 65,
+      "favorite_count": 64,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087152.061448",
+      "text": "$AVAX est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 8849
+      },
+      "retweet_count": 20,
+      "favorite_count": 68,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087152.061448",
+      "text": "$AVAX a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 3690
+      },
+      "retweet_count": 79,
+      "favorite_count": 71,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087152.061448",
+      "text": "Comment voyez-vous $AVAX dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 4882
+      },
+      "retweet_count": 81,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087152.061448",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $AVAX sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 742
+      },
+      "retweet_count": 32,
+      "favorite_count": 142,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087152.061448",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $AVAX sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 1681
+      },
+      "retweet_count": 67,
+      "favorite_count": 107,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087152.061448",
+      "text": "Comment voyez-vous $AVAX dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 6292
+      },
+      "retweet_count": 81,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087152.061448",
+      "text": "Vient d'acheter plus de $AVAX. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 2348
+      },
+      "retweet_count": 10,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087152.061448",
+      "text": "Vient d'acheter plus de $AVAX. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 1604
+      },
+      "retweet_count": 47,
+      "favorite_count": 125,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087152.063044",
+      "text": "La r\u00e9gulation va frapper $AVAX durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 2824
+      },
+      "retweet_count": 72,
+      "favorite_count": 106,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087152.063044",
+      "text": "Comparaison int\u00e9ressante entre $AVAX et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 7897
+      },
+      "retweet_count": 84,
+      "favorite_count": 76,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087152.063444",
+      "text": "Je viens de vendre tout mon $AVAX. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 438
+      },
+      "retweet_count": 52,
+      "favorite_count": 29,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087152.063444",
+      "text": "Les probl\u00e8mes techniques de $AVAX sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 5721
+      },
+      "retweet_count": 38,
+      "favorite_count": 30,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087152.063444",
+      "text": "La r\u00e9gulation va frapper $AVAX durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 4908
+      },
+      "retweet_count": 58,
+      "favorite_count": 142,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087152.063444",
+      "text": "Comment voyez-vous $AVAX dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 479
+      },
+      "retweet_count": 65,
+      "favorite_count": 97,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087152.063444",
+      "text": "J'adore $AVAX! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 6873
+      },
+      "retweet_count": 33,
+      "favorite_count": 121,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087152.064441",
+      "text": "Je viens de vendre tout mon $AVAX. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 1580
+      },
+      "retweet_count": 66,
+      "favorite_count": 7,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087152.064441",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $AVAX? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 4705
+      },
+      "retweet_count": 90,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087152.064441",
+      "text": "Les probl\u00e8mes techniques de $AVAX sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 4876
+      },
+      "retweet_count": 61,
+      "favorite_count": 5,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087152.065302",
+      "text": "Comment voyez-vous $AVAX dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 5433
+      },
+      "retweet_count": 84,
+      "favorite_count": 96,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087152.065436",
+      "text": "J'adore $AVAX! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 825
+      },
+      "retweet_count": 65,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087152.065436",
+      "text": "$AVAX est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 7563
+      },
+      "retweet_count": 27,
+      "favorite_count": 190,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087152.065436",
+      "text": "$AVAX r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 4223
+      },
+      "retweet_count": 23,
+      "favorite_count": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087152.065436",
+      "text": "Les probl\u00e8mes techniques de $AVAX sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 3992
+      },
+      "retweet_count": 91,
+      "favorite_count": 10,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087152.065436",
+      "text": "Je viens de vendre tout mon $AVAX. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 4008
+      },
+      "retweet_count": 9,
+      "favorite_count": 96,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087152.066435",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $AVAX sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 941
+      },
+      "retweet_count": 55,
+      "favorite_count": 105,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087152.067793",
+      "text": "$AVAX r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 1436
+      },
+      "retweet_count": 25,
+      "favorite_count": 17,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087152.067793",
+      "text": "Comparaison int\u00e9ressante entre $AVAX et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 2446
+      },
+      "retweet_count": 50,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087152.067793",
+      "text": "$AVAX r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 3263
+      },
+      "retweet_count": 26,
+      "favorite_count": 158,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087152.068429",
+      "text": "J'adore $AVAX! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 7450
+      },
+      "retweet_count": 14,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087152.068429",
+      "text": "Je viens de vendre tout mon $AVAX. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 5209
+      },
+      "retweet_count": 61,
+      "favorite_count": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087152.068429",
+      "text": "Comparaison int\u00e9ressante entre $AVAX et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 9746
+      },
+      "retweet_count": 97,
+      "favorite_count": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087152.068429",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $AVAX ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 9742
+      },
+      "retweet_count": 64,
+      "favorite_count": 177,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087152.068429",
+      "text": "$AVAX a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 511
+      },
+      "retweet_count": 78,
+      "favorite_count": 3,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087152.069426",
+      "text": "$AVAX a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 439
+      },
+      "retweet_count": 90,
+      "favorite_count": 141,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087152.069426",
+      "text": "Comment voyez-vous $AVAX dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 9933
+      },
+      "retweet_count": 36,
+      "favorite_count": 177,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087152.069426",
+      "text": "$AVAX a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 5672
+      },
+      "retweet_count": 40,
+      "favorite_count": 28,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087152.069426",
+      "text": "$AVAX est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 798
+      },
+      "retweet_count": 14,
+      "favorite_count": 139,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087152.069426",
+      "text": "Je viens de vendre tout mon $AVAX. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 8838
+      },
+      "retweet_count": 65,
+      "favorite_count": 193,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087152.070424",
+      "text": "Les probl\u00e8mes techniques de $AVAX sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 6623
+      },
+      "retweet_count": 99,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087152.070512",
+      "text": "Le volume d'\u00e9changes de $AVAX est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 7780
+      },
+      "retweet_count": 63,
+      "favorite_count": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087152.070512",
+      "text": "Je viens de vendre tout mon $AVAX. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 7847
+      },
+      "retweet_count": 46,
+      "favorite_count": 188,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087152.070512",
+      "text": "Comparaison int\u00e9ressante entre $AVAX et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 678
+      },
+      "retweet_count": 5,
+      "favorite_count": 103,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087152.07183",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $AVAX? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 9007
+      },
+      "retweet_count": 30,
+      "favorite_count": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087152.07183",
+      "text": "$AVAX est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 6627
+      },
+      "retweet_count": 86,
+      "favorite_count": 109,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087152.072419",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $AVAX? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 2728
+      },
+      "retweet_count": 6,
+      "favorite_count": 40,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087152.072419",
+      "text": "Vient d'acheter plus de $AVAX. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 1522
+      },
+      "retweet_count": 23,
+      "favorite_count": 108,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087152.072419",
+      "text": "La r\u00e9gulation va frapper $AVAX durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 6837
+      },
+      "retweet_count": 78,
+      "favorite_count": 188,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087152.073422",
+      "text": "Comparaison int\u00e9ressante entre $AVAX et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 5094
+      },
+      "retweet_count": 81,
+      "favorite_count": 143,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087152.073667",
+      "text": "$AVAX est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 8986
+      },
+      "retweet_count": 69,
+      "favorite_count": 5,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087152.073667",
+      "text": "Comment voyez-vous $AVAX dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 5678
+      },
+      "retweet_count": 42,
+      "favorite_count": 17,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087152.073667",
+      "text": "Vient d'acheter plus de $AVAX. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 8782
+      },
+      "retweet_count": 8,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087152.073667",
+      "text": "$AVAX a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 5509
+      },
+      "retweet_count": 92,
+      "favorite_count": 71,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087152.073667",
+      "text": "Les probl\u00e8mes techniques de $AVAX sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 1582
+      },
+      "retweet_count": 16,
+      "favorite_count": 169,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087152.073667",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $AVAX ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 3410
+      },
+      "retweet_count": 50,
+      "favorite_count": 157,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087152.074414",
+      "text": "Les probl\u00e8mes techniques de $AVAX sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 8569
+      },
+      "retweet_count": 47,
+      "favorite_count": 166,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087152.074414",
+      "text": "$AVAX a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 5117
+      },
+      "retweet_count": 43,
+      "favorite_count": 106,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087152.074414",
+      "text": "Vient d'acheter plus de $AVAX. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 1168
+      },
+      "retweet_count": 44,
+      "favorite_count": 47,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087152.074414",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $AVAX sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 4404
+      },
+      "retweet_count": 23,
+      "favorite_count": 195,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087152.074414",
+      "text": "Comment voyez-vous $AVAX dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 7689
+      },
+      "retweet_count": 88,
+      "favorite_count": 13,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087152.074414",
+      "text": "$AVAX est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 1929
+      },
+      "retweet_count": 88,
+      "favorite_count": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087152.074414",
+      "text": "Le volume d'\u00e9changes de $AVAX est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 5174
+      },
+      "retweet_count": 66,
+      "favorite_count": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087152.074414",
+      "text": "Le volume d'\u00e9changes de $AVAX est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 8146
+      },
+      "retweet_count": 61,
+      "favorite_count": 192,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087152.07541",
+      "text": "$AVAX est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 1990
+      },
+      "retweet_count": 87,
+      "favorite_count": 140,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087152.07541",
+      "text": "Comparaison int\u00e9ressante entre $AVAX et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 7496
+      },
+      "retweet_count": 34,
+      "favorite_count": 1,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087152.07541",
+      "text": "$AVAX est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 2539
+      },
+      "retweet_count": 39,
+      "favorite_count": 177,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087152.07541",
+      "text": "J'adore $AVAX! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 197
+      },
+      "retweet_count": 63,
+      "favorite_count": 34,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087152.07541",
+      "text": "$AVAX r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 7515
+      },
+      "retweet_count": 62,
+      "favorite_count": 1,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087152.07541",
+      "text": "$AVAX est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 6602
+      },
+      "retweet_count": 1,
+      "favorite_count": 187,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087152.07541",
+      "text": "Je viens de vendre tout mon $AVAX. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 5815
+      },
+      "retweet_count": 95,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087152.07541",
+      "text": "$AVAX r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 3745
+      },
+      "retweet_count": 58,
+      "favorite_count": 92,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087152.07541",
+      "text": "$AVAX r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 5580
+      },
+      "retweet_count": 66,
+      "favorite_count": 143,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087152.076409",
+      "text": "Comparaison int\u00e9ressante entre $AVAX et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 8426
+      },
+      "retweet_count": 32,
+      "favorite_count": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087152.076409",
+      "text": "$AVAX a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 9235
+      },
+      "retweet_count": 5,
+      "favorite_count": 63,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    }
+  ],
+  "popular_tweets": [
+    {
+      "id": "tweet_65_1743087152.070424",
+      "text": "Les probl\u00e8mes techniques de $AVAX sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 6623
+      },
+      "retweet_count": 99,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087152.064441",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $AVAX? #crypto #info",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 4705
+      },
+      "retweet_count": 90,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087152.028132",
+      "text": "Je viens de vendre tout mon Avalanche. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 8640
+      },
+      "retweet_count": 89,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087152.01604",
+      "text": "La r\u00e9gulation va frapper Avalanche durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 3055
+      },
+      "retweet_count": 98,
+      "favorite_count": 187,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087152.058094",
+      "text": "Les probl\u00e8mes techniques de $AVAX sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:32",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 6378
+      },
+      "retweet_count": 99,
+      "favorite_count": 186,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    }
+  ],
+  "timestamp": "2025-03-27 15:52:32"
+}

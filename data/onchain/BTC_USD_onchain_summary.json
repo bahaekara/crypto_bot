@@ -1,0 +1,25 @@
+{
+  "symbol": "BTC-USD",
+  "latest_date": "2025-03-27",
+  "active_addresses": 9202,
+  "transactions": 24356,
+  "volume": 32437,
+  "fees": 903,
+  "weekly_change": {
+    "active_addresses": 1.59,
+    "transactions": 5.16,
+    "volume": -12.27
+  },
+  "monthly_change": {
+    "active_addresses": -3.49,
+    "transactions": 30.3,
+    "volume": -20.32
+  },
+  "averages": {
+    "daily_transactions": 16776.1,
+    "daily_volume": 41092.38,
+    "daily_active_addresses": 8824.66
+  },
+  "onchain_score": 49.08,
+  "signal": "NEUTRE"
+}

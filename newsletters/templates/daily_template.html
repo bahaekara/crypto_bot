@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newsletter Quotidienne Crypto - {{ date }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 10px;
+        }
+        .header h1 {
+            color: #4CAF50;
+            margin-bottom: 5px;
+        }
+        .header p {
+            color: #777;
+            font-size: 14px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section h2 {
+            color: #2196F3;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+        .crypto-card {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 15px;
+            background-color: #f9f9f9;
+        }
+        .buy {
+            border-left: 5px solid #4CAF50;
+        }
+        .hold {
+            border-left: 5px solid #FFC107;
+        }
+        .sell {
+            border-left: 5px solid #F44336;
+        }
+        .crypto-card h3 {
+            margin-top: 0;
+            color: #333;
+        }
+        .crypto-card p {
+            margin: 5px 0;
+        }
+        .crypto-card .signal {
+            font-weight: bold;
+            font-size: 14px;
+            padding: 3px 8px;
+            border-radius: 3px;
+            display: inline-block;
+            margin-top: 5px;
+        }
+        .buy-signal {
+            background-color: #4CAF50;
+            color: white;
+        }
+        .hold-signal {
+            background-color: #FFC107;
+            color: black;
+        }
+        .sell-signal {
+            background-color: #F44336;
+            color: white;
+        }
+        .chart {
+            margin: 20px 0;
+            text-align: center;
+        }
+        .chart img {
+            max-width: 100%;
+            height: auto;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            font-size: 12px;
+            color: #777;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Newsletter Quotidienne Crypto</h1>
+        <p>Analyse et prédictions pour le {{ date }}</p>
+    </div>
+    
+    <div class="section">
+        <h2>Résumé du Marché</h2>
+        <p>{{ market_summary }}</p>
+    </div>
+    
+    <div class="section">
+        <h2>Top Recommandations du Jour</h2>
+        
+        {% for crypto in top_cryptos %}
+        <div class="crypto-card {% if crypto.signal == 'ACHAT' %}buy{% elif crypto.signal == 'CONSERVER' %}hold{% else %}sell{% endif %}">
+            <h3>{{ crypto.symbol }}</h3>
+            <p><strong>Prix actuel:</strong> {{ "%.2f"|format(crypto.current_price) }} USD</p>
+            <p><strong>Prix prédit (7j):</strong> {{ "%.2f"|format(crypto.predicted_price) }} USD</p>
+            <p><strong>Variation prédite:</strong> {{ "%.2f"|format(crypto.percent_change) }}%</p>
+            <p><strong>Sentiment:</strong> {{ "%.1f"|format(crypto.sentiment) }}%</p>
+            <div class="signal {% if crypto.signal == 'ACHAT' %}buy-signal{% elif crypto.signal == 'CONSERVER' %}hold-signal{% else %}sell-signal{% endif %}">
+                {{ crypto.signal }}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    
+    <div class="section">
+        <h2>Graphique des Performances Prédites</h2>
+        <div class="chart">
+            <img src="data:image/png;base64,{{ performance_chart }}" alt="Performance Chart">
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>Analyse de Sentiment</h2>
+        <div class="chart">
+            <img src="data:image/png;base64,{{ sentiment_chart }}" alt="Sentiment Chart">
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>Tableau Récapitulatif</h2>
+        <table>
+            <tr>
+                <th>Symbole</th>
+                <th>Prix Actuel</th>
+                <th>Variation Prédite</th>
+                <th>Signal</th>
+                <th>Sentiment</th>
+            </tr>
+            {% for crypto in all_cryptos %}
+            <tr>
+                <td>{{ crypto.symbol }}</td>
+                <td>{{ "%.2f"|format(crypto.current_price) }} USD</td>
+                <td>{{ "%.2f"|format(crypto.percent_change) }}%</td>
+                <td>{{ crypto.signal }}</td>
+                <td>{{ "%.1f"|format(crypto.sentiment) }}%</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+    
+    <div class="footer">
+        <p>Cette newsletter est générée automatiquement par un bot d'analyse de cryptomonnaies. Les prédictions sont basées sur des indicateurs techniques et l'analyse de sentiment.</p>
+        <p>Les informations fournies ne constituent pas des conseils d'investissement. Investissez de manière responsable et à vos propres risques.</p>
+        <p>© {{ current_year }} Crypto Bot - Tous droits réservés</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "symbol": "SOL-USD",
+  "latest_date": "2025-03-27",
+  "active_addresses": 579,
+  "transactions": 41047,
+  "volume": 184095,
+  "fees": 113,
+  "weekly_change": {
+    "active_addresses": 11.78,
+    "transactions": 7.04,
+    "volume": -2.52
+  },
+  "monthly_change": {
+    "active_addresses": -25.0,
+    "transactions": 18.89,
+    "volume": -14.75
+  },
+  "averages": {
+    "daily_transactions": 37544.14,
+    "daily_volume": 156762.36,
+    "daily_active_addresses": 849.7
+  },
+  "onchain_score": 52.72,
+  "signal": "POSITIF"
+}

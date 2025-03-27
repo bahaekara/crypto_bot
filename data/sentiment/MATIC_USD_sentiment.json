@@ -1,0 +1,5285 @@
+{
+  "symbol": "MATIC-USD",
+  "name": "Polygon",
+  "sentiment_score": 0.0,
+  "sentiment_label": "Neutre",
+  "tweet_count": 400,
+  "positive_count": 0,
+  "negative_count": 0,
+  "neutral_count": 400,
+  "sentiment_percentages": {
+    "positive": 0.0,
+    "negative": 0.0,
+    "neutral": 100.0
+  },
+  "tweets": [
+    {
+      "id": "tweet_0_1743087153.254289",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 4011
+      },
+      "retweet_count": 98,
+      "favorite_count": 3,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087153.255283",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 4609
+      },
+      "retweet_count": 78,
+      "favorite_count": 32,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087153.255283",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 159
+      },
+      "retweet_count": 87,
+      "favorite_count": 121,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087153.255283",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 1107
+      },
+      "retweet_count": 71,
+      "favorite_count": 14,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087153.255283",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 2375
+      },
+      "retweet_count": 27,
+      "favorite_count": 187,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087153.255283",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 2936
+      },
+      "retweet_count": 19,
+      "favorite_count": 192,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087153.25628",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 4724
+      },
+      "retweet_count": 64,
+      "favorite_count": 95,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087153.25628",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 9909
+      },
+      "retweet_count": 87,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087153.25628",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 1689
+      },
+      "retweet_count": 13,
+      "favorite_count": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087153.25628",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 4338
+      },
+      "retweet_count": 42,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087153.25628",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 297
+      },
+      "retweet_count": 99,
+      "favorite_count": 26,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087153.257275",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 5978
+      },
+      "retweet_count": 45,
+      "favorite_count": 39,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087153.257275",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 1039
+      },
+      "retweet_count": 3,
+      "favorite_count": 179,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087153.257275",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 2618
+      },
+      "retweet_count": 37,
+      "favorite_count": 85,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087153.257275",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 8965
+      },
+      "retweet_count": 46,
+      "favorite_count": 159,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087153.257275",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 9166
+      },
+      "retweet_count": 32,
+      "favorite_count": 43,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087153.257275",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 1008
+      },
+      "retweet_count": 53,
+      "favorite_count": 94,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087153.258684",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 350
+      },
+      "retweet_count": 87,
+      "favorite_count": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087153.258684",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 7731
+      },
+      "retweet_count": 0,
+      "favorite_count": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087153.259268",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 109
+      },
+      "retweet_count": 99,
+      "favorite_count": 178,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087153.259268",
+      "text": "Comparaison int\u00e9ressante entre Polygon et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 9311
+      },
+      "retweet_count": 77,
+      "favorite_count": 178,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087153.259268",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 6718
+      },
+      "retweet_count": 31,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087153.259268",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 5191
+      },
+      "retweet_count": 28,
+      "favorite_count": 15,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087153.260268",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 9903
+      },
+      "retweet_count": 31,
+      "favorite_count": 172,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087153.260268",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 3157
+      },
+      "retweet_count": 6,
+      "favorite_count": 92,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087153.260268",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 4692
+      },
+      "retweet_count": 92,
+      "favorite_count": 168,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087153.260268",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 918
+      },
+      "retweet_count": 62,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087153.260268",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 4157
+      },
+      "retweet_count": 32,
+      "favorite_count": 14,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087153.260268",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 1022
+      },
+      "retweet_count": 71,
+      "favorite_count": 192,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087153.261266",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 6453
+      },
+      "retweet_count": 10,
+      "favorite_count": 63,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087153.261266",
+      "text": "Le volume d'\u00e9changes de Polygon est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 3213
+      },
+      "retweet_count": 16,
+      "favorite_count": 189,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087153.261266",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 1328
+      },
+      "retweet_count": 89,
+      "favorite_count": 83,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087153.261266",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 3599
+      },
+      "retweet_count": 76,
+      "favorite_count": 114,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087153.261266",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 2965
+      },
+      "retweet_count": 46,
+      "favorite_count": 48,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087153.262264",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 8069
+      },
+      "retweet_count": 63,
+      "favorite_count": 106,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087153.262555",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 2829
+      },
+      "retweet_count": 98,
+      "favorite_count": 3,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087153.262555",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 7987
+      },
+      "retweet_count": 0,
+      "favorite_count": 144,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087153.263262",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 2834
+      },
+      "retweet_count": 54,
+      "favorite_count": 189,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087153.263262",
+      "text": "Comparaison int\u00e9ressante entre Polygon et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 5767
+      },
+      "retweet_count": 15,
+      "favorite_count": 123,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087153.264106",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 7572
+      },
+      "retweet_count": 24,
+      "favorite_count": 181,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087153.264256",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 577
+      },
+      "retweet_count": 23,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087153.264702",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 4023
+      },
+      "retweet_count": 64,
+      "favorite_count": 47,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087153.264702",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 4586
+      },
+      "retweet_count": 10,
+      "favorite_count": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087153.265531",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 3716
+      },
+      "retweet_count": 70,
+      "favorite_count": 150,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087153.265531",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 6621
+      },
+      "retweet_count": 49,
+      "favorite_count": 94,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087153.265531",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 7873
+      },
+      "retweet_count": 27,
+      "favorite_count": 170,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087153.266321",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 3055
+      },
+      "retweet_count": 55,
+      "favorite_count": 170,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087153.266321",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 1723
+      },
+      "retweet_count": 8,
+      "favorite_count": 139,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087153.266321",
+      "text": "Comparaison int\u00e9ressante entre Polygon et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 1464
+      },
+      "retweet_count": 30,
+      "favorite_count": 173,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087153.26759",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 7745
+      },
+      "retweet_count": 89,
+      "favorite_count": 44,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087153.269536",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 9147
+      },
+      "retweet_count": 73,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087153.269536",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 6733
+      },
+      "retweet_count": 24,
+      "favorite_count": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087153.269536",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 8814
+      },
+      "retweet_count": 14,
+      "favorite_count": 11,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087153.270241",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 4986
+      },
+      "retweet_count": 91,
+      "favorite_count": 146,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087153.270241",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 2026
+      },
+      "retweet_count": 94,
+      "favorite_count": 169,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087153.270241",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 1606
+      },
+      "retweet_count": 44,
+      "favorite_count": 7,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087153.270241",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 8755
+      },
+      "retweet_count": 76,
+      "favorite_count": 44,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087153.270241",
+      "text": "Le volume d'\u00e9changes de Polygon est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 600
+      },
+      "retweet_count": 89,
+      "favorite_count": 177,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087153.271236",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 4963
+      },
+      "retweet_count": 53,
+      "favorite_count": 194,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087153.271236",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 4096
+      },
+      "retweet_count": 78,
+      "favorite_count": 156,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087153.271236",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 1889
+      },
+      "retweet_count": 41,
+      "favorite_count": 27,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087153.271236",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 1029
+      },
+      "retweet_count": 98,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087153.271236",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 6125
+      },
+      "retweet_count": 90,
+      "favorite_count": 85,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087153.272233",
+      "text": "Le volume d'\u00e9changes de Polygon est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 8381
+      },
+      "retweet_count": 44,
+      "favorite_count": 51,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087153.272233",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 3561
+      },
+      "retweet_count": 11,
+      "favorite_count": 126,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087153.272233",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 4769
+      },
+      "retweet_count": 22,
+      "favorite_count": 52,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087153.272233",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 3379
+      },
+      "retweet_count": 41,
+      "favorite_count": 25,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087153.272233",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 9283
+      },
+      "retweet_count": 39,
+      "favorite_count": 183,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087153.273231",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 4089
+      },
+      "retweet_count": 31,
+      "favorite_count": 112,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087153.273231",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 4804
+      },
+      "retweet_count": 97,
+      "favorite_count": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087153.273231",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 1642
+      },
+      "retweet_count": 31,
+      "favorite_count": 168,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087153.273231",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 9499
+      },
+      "retweet_count": 44,
+      "favorite_count": 108,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087153.273231",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 5452
+      },
+      "retweet_count": 20,
+      "favorite_count": 146,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087153.273231",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 9081
+      },
+      "retweet_count": 43,
+      "favorite_count": 98,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087153.274227",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 3046
+      },
+      "retweet_count": 41,
+      "favorite_count": 63,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087153.274227",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 4910
+      },
+      "retweet_count": 82,
+      "favorite_count": 32,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087153.274633",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 4645
+      },
+      "retweet_count": 94,
+      "favorite_count": 158,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087153.274633",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 1900
+      },
+      "retweet_count": 41,
+      "favorite_count": 133,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087153.275226",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 5015
+      },
+      "retweet_count": 10,
+      "favorite_count": 20,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087153.275226",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 8873
+      },
+      "retweet_count": 72,
+      "favorite_count": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087153.275226",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 5090
+      },
+      "retweet_count": 85,
+      "favorite_count": 183,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087153.275226",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 8496
+      },
+      "retweet_count": 69,
+      "favorite_count": 48,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087153.275226",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 4099
+      },
+      "retweet_count": 38,
+      "favorite_count": 8,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087153.276223",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 6327
+      },
+      "retweet_count": 58,
+      "favorite_count": 65,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087153.276223",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 1614
+      },
+      "retweet_count": 11,
+      "favorite_count": 39,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087153.276223",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 399
+      },
+      "retweet_count": 74,
+      "favorite_count": 15,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087153.276223",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 5648
+      },
+      "retweet_count": 71,
+      "favorite_count": 73,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087153.276223",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 2596
+      },
+      "retweet_count": 76,
+      "favorite_count": 171,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087153.276223",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 5650
+      },
+      "retweet_count": 14,
+      "favorite_count": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087153.27722",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 8061
+      },
+      "retweet_count": 14,
+      "favorite_count": 37,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087153.27722",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 8134
+      },
+      "retweet_count": 64,
+      "favorite_count": 72,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087153.27722",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 3822
+      },
+      "retweet_count": 28,
+      "favorite_count": 136,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087153.27722",
+      "text": "Comparaison int\u00e9ressante entre Polygon et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 5139
+      },
+      "retweet_count": 27,
+      "favorite_count": 141,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087153.27722",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 503
+      },
+      "retweet_count": 97,
+      "favorite_count": 68,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087153.27722",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 478
+      },
+      "retweet_count": 86,
+      "favorite_count": 114,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087153.278218",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 6330
+      },
+      "retweet_count": 6,
+      "favorite_count": 3,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087153.278218",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 9485
+      },
+      "retweet_count": 68,
+      "favorite_count": 168,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087153.278218",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 5114
+      },
+      "retweet_count": 32,
+      "favorite_count": 183,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087153.278218",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 3948
+      },
+      "retweet_count": 65,
+      "favorite_count": 133,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087153.278218",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 2733
+      },
+      "retweet_count": 54,
+      "favorite_count": 99,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_0_1743087153.282207",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 3475
+      },
+      "retweet_count": 74,
+      "favorite_count": 48,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087153.282207",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 5585
+      },
+      "retweet_count": 9,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087153.282207",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 9127
+      },
+      "retweet_count": 33,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087153.282207",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 748
+      },
+      "retweet_count": 93,
+      "favorite_count": 160,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087153.282207",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 8107
+      },
+      "retweet_count": 6,
+      "favorite_count": 173,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087153.28327",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 1153
+      },
+      "retweet_count": 75,
+      "favorite_count": 98,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087153.284203",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 6002
+      },
+      "retweet_count": 5,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087153.284203",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 7331
+      },
+      "retweet_count": 70,
+      "favorite_count": 145,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087153.285201",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 5311
+      },
+      "retweet_count": 55,
+      "favorite_count": 114,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087153.285201",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 9891
+      },
+      "retweet_count": 13,
+      "favorite_count": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087153.286198",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 4886
+      },
+      "retweet_count": 66,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087153.286198",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 3803
+      },
+      "retweet_count": 63,
+      "favorite_count": 180,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087153.286198",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 6205
+      },
+      "retweet_count": 29,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087153.2872",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 7602
+      },
+      "retweet_count": 10,
+      "favorite_count": 141,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087153.2872",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 3855
+      },
+      "retweet_count": 52,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087153.2872",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 7860
+      },
+      "retweet_count": 74,
+      "favorite_count": 145,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087153.28823",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 3115
+      },
+      "retweet_count": 33,
+      "favorite_count": 193,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087153.28919",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 4583
+      },
+      "retweet_count": 35,
+      "favorite_count": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087153.28919",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 4190
+      },
+      "retweet_count": 61,
+      "favorite_count": 183,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087153.289703",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 8196
+      },
+      "retweet_count": 50,
+      "favorite_count": 48,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087153.290186",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 3310
+      },
+      "retweet_count": 35,
+      "favorite_count": 53,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087153.290186",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 9878
+      },
+      "retweet_count": 28,
+      "favorite_count": 126,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087153.290186",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 5882
+      },
+      "retweet_count": 23,
+      "favorite_count": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087153.290186",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 785
+      },
+      "retweet_count": 77,
+      "favorite_count": 59,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087153.291184",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 5059
+      },
+      "retweet_count": 92,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087153.291184",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 2027
+      },
+      "retweet_count": 64,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087153.291184",
+      "text": "Comparaison int\u00e9ressante entre Polygon et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 3362
+      },
+      "retweet_count": 33,
+      "favorite_count": 13,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087153.291184",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 9028
+      },
+      "retweet_count": 90,
+      "favorite_count": 136,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087153.291184",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 245
+      },
+      "retweet_count": 31,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087153.291184",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 7647
+      },
+      "retweet_count": 6,
+      "favorite_count": 113,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087153.29218",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 2301
+      },
+      "retweet_count": 11,
+      "favorite_count": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087153.29218",
+      "text": "Comparaison int\u00e9ressante entre Polygon et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 8560
+      },
+      "retweet_count": 7,
+      "favorite_count": 106,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087153.29218",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 5021
+      },
+      "retweet_count": 77,
+      "favorite_count": 85,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087153.29218",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 6610
+      },
+      "retweet_count": 94,
+      "favorite_count": 172,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087153.29218",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 197
+      },
+      "retweet_count": 35,
+      "favorite_count": 87,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087153.29218",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 1127
+      },
+      "retweet_count": 36,
+      "favorite_count": 40,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087153.293178",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 8099
+      },
+      "retweet_count": 54,
+      "favorite_count": 143,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087153.293178",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 4672
+      },
+      "retweet_count": 50,
+      "favorite_count": 147,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087153.293178",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 4934
+      },
+      "retweet_count": 37,
+      "favorite_count": 72,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087153.293178",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 8148
+      },
+      "retweet_count": 54,
+      "favorite_count": 160,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087153.293178",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 4039
+      },
+      "retweet_count": 87,
+      "favorite_count": 73,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087153.293178",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 2233
+      },
+      "retweet_count": 44,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087153.294175",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 3670
+      },
+      "retweet_count": 75,
+      "favorite_count": 176,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087153.294175",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 4644
+      },
+      "retweet_count": 32,
+      "favorite_count": 2,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087153.294175",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 8953
+      },
+      "retweet_count": 48,
+      "favorite_count": 181,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087153.294175",
+      "text": "Le volume d'\u00e9changes de Polygon est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 4506
+      },
+      "retweet_count": 29,
+      "favorite_count": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087153.294175",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 6433
+      },
+      "retweet_count": 52,
+      "favorite_count": 189,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087153.294175",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 7676
+      },
+      "retweet_count": 32,
+      "favorite_count": 130,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087153.295172",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 8208
+      },
+      "retweet_count": 37,
+      "favorite_count": 176,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087153.295172",
+      "text": "Comparaison int\u00e9ressante entre Polygon et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 792
+      },
+      "retweet_count": 67,
+      "favorite_count": 110,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087153.295172",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 732
+      },
+      "retweet_count": 22,
+      "favorite_count": 58,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087153.295172",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 7123
+      },
+      "retweet_count": 80,
+      "favorite_count": 110,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087153.29617",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 2312
+      },
+      "retweet_count": 35,
+      "favorite_count": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087153.29617",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 5749
+      },
+      "retweet_count": 75,
+      "favorite_count": 50,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087153.29617",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 7064
+      },
+      "retweet_count": 54,
+      "favorite_count": 195,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087153.29717",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 3047
+      },
+      "retweet_count": 84,
+      "favorite_count": 65,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087153.29717",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 7959
+      },
+      "retweet_count": 98,
+      "favorite_count": 8,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087153.298257",
+      "text": "Le volume d'\u00e9changes de Polygon est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 3365
+      },
+      "retweet_count": 21,
+      "favorite_count": 142,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087153.298257",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 6037
+      },
+      "retweet_count": 70,
+      "favorite_count": 73,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087153.298257",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 2255
+      },
+      "retweet_count": 76,
+      "favorite_count": 172,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087153.299166",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 6416
+      },
+      "retweet_count": 30,
+      "favorite_count": 116,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087153.300163",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 5966
+      },
+      "retweet_count": 13,
+      "favorite_count": 156,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087153.301358",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 756
+      },
+      "retweet_count": 7,
+      "favorite_count": 132,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087153.301358",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 8819
+      },
+      "retweet_count": 31,
+      "favorite_count": 135,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087153.301358",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 6077
+      },
+      "retweet_count": 35,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087153.301358",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 518
+      },
+      "retweet_count": 45,
+      "favorite_count": 173,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087153.302154",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 9473
+      },
+      "retweet_count": 9,
+      "favorite_count": 91,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087153.302154",
+      "text": "Comparaison int\u00e9ressante entre Polygon et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 9560
+      },
+      "retweet_count": 45,
+      "favorite_count": 119,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087153.302154",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 7605
+      },
+      "retweet_count": 33,
+      "favorite_count": 108,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087153.302154",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 3010
+      },
+      "retweet_count": 47,
+      "favorite_count": 184,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087153.302154",
+      "text": "Le volume d'\u00e9changes de Polygon est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 7898
+      },
+      "retweet_count": 96,
+      "favorite_count": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087153.303151",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 3044
+      },
+      "retweet_count": 76,
+      "favorite_count": 115,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087153.303151",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 3091
+      },
+      "retweet_count": 36,
+      "favorite_count": 98,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087153.303151",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 501
+      },
+      "retweet_count": 99,
+      "favorite_count": 151,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087153.303151",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 5675
+      },
+      "retweet_count": 69,
+      "favorite_count": 120,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087153.303151",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 5011
+      },
+      "retweet_count": 9,
+      "favorite_count": 194,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087153.303151",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 7362
+      },
+      "retweet_count": 43,
+      "favorite_count": 115,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087153.304148",
+      "text": "Le volume d'\u00e9changes de Polygon est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 1732
+      },
+      "retweet_count": 6,
+      "favorite_count": 145,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087153.304148",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 8414
+      },
+      "retweet_count": 49,
+      "favorite_count": 46,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087153.304148",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 1845
+      },
+      "retweet_count": 94,
+      "favorite_count": 76,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087153.304148",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 5079
+      },
+      "retweet_count": 45,
+      "favorite_count": 43,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087153.304148",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 5683
+      },
+      "retweet_count": 6,
+      "favorite_count": 149,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087153.304148",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 9865
+      },
+      "retweet_count": 9,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087153.305146",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 1262
+      },
+      "retweet_count": 62,
+      "favorite_count": 173,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087153.305146",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 5293
+      },
+      "retweet_count": 72,
+      "favorite_count": 146,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087153.305146",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 1029
+      },
+      "retweet_count": 99,
+      "favorite_count": 150,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087153.305146",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 7844
+      },
+      "retweet_count": 57,
+      "favorite_count": 187,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087153.305146",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 8977
+      },
+      "retweet_count": 43,
+      "favorite_count": 141,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087153.306144",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 7730
+      },
+      "retweet_count": 13,
+      "favorite_count": 30,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087153.306144",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 1676
+      },
+      "retweet_count": 86,
+      "favorite_count": 40,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087153.306144",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 6009
+      },
+      "retweet_count": 38,
+      "favorite_count": 67,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087153.306144",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 3000
+      },
+      "retweet_count": 16,
+      "favorite_count": 127,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087153.306144",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 5617
+      },
+      "retweet_count": 12,
+      "favorite_count": 76,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087153.306144",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 5003
+      },
+      "retweet_count": 37,
+      "favorite_count": 167,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087153.30714",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 6151
+      },
+      "retweet_count": 95,
+      "favorite_count": 46,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087153.30714",
+      "text": "Le volume d'\u00e9changes de Polygon est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 580
+      },
+      "retweet_count": 42,
+      "favorite_count": 143,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087153.30756",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 1466
+      },
+      "retweet_count": 16,
+      "favorite_count": 142,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087153.30756",
+      "text": "Comparaison int\u00e9ressante entre Polygon et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 5650
+      },
+      "retweet_count": 15,
+      "favorite_count": 178,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087153.308138",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 5465
+      },
+      "retweet_count": 96,
+      "favorite_count": 175,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087153.308138",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 1025
+      },
+      "retweet_count": 51,
+      "favorite_count": 43,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_0_1743087153.310165",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 8904
+      },
+      "retweet_count": 14,
+      "favorite_count": 94,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087153.310165",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 5962
+      },
+      "retweet_count": 64,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087153.310165",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 9830
+      },
+      "retweet_count": 0,
+      "favorite_count": 52,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087153.311129",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 8775
+      },
+      "retweet_count": 81,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087153.311129",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 3486
+      },
+      "retweet_count": 60,
+      "favorite_count": 181,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087153.311129",
+      "text": "Comparaison int\u00e9ressante entre Polygon et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 8890
+      },
+      "retweet_count": 51,
+      "favorite_count": 183,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087153.311129",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 5220
+      },
+      "retweet_count": 21,
+      "favorite_count": 74,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087153.311129",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 7228
+      },
+      "retweet_count": 77,
+      "favorite_count": 5,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087153.312129",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 9900
+      },
+      "retweet_count": 66,
+      "favorite_count": 148,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087153.312129",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 4214
+      },
+      "retweet_count": 81,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087153.312617",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 9257
+      },
+      "retweet_count": 28,
+      "favorite_count": 190,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087153.313127",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 1561
+      },
+      "retweet_count": 11,
+      "favorite_count": 48,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087153.313127",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 1436
+      },
+      "retweet_count": 31,
+      "favorite_count": 169,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087153.313127",
+      "text": "Comparaison int\u00e9ressante entre Polygon et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 5711
+      },
+      "retweet_count": 23,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087153.314123",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 2110
+      },
+      "retweet_count": 63,
+      "favorite_count": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087153.314123",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 8582
+      },
+      "retweet_count": 0,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087153.314568",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 8898
+      },
+      "retweet_count": 77,
+      "favorite_count": 151,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087153.315609",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 136
+      },
+      "retweet_count": 41,
+      "favorite_count": 16,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087153.315609",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 2025
+      },
+      "retweet_count": 77,
+      "favorite_count": 177,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087153.316118",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 103
+      },
+      "retweet_count": 84,
+      "favorite_count": 121,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087153.316118",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 1366
+      },
+      "retweet_count": 1,
+      "favorite_count": 30,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087153.316118",
+      "text": "Le volume d'\u00e9changes de Polygon est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 7377
+      },
+      "retweet_count": 84,
+      "favorite_count": 150,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087153.317114",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 3172
+      },
+      "retweet_count": 69,
+      "favorite_count": 181,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087153.317114",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 8319
+      },
+      "retweet_count": 96,
+      "favorite_count": 173,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087153.317114",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 6908
+      },
+      "retweet_count": 39,
+      "favorite_count": 116,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087153.317114",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 7447
+      },
+      "retweet_count": 25,
+      "favorite_count": 13,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087153.318112",
+      "text": "Comparaison int\u00e9ressante entre Polygon et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 1113
+      },
+      "retweet_count": 0,
+      "favorite_count": 46,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087153.318112",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 8438
+      },
+      "retweet_count": 91,
+      "favorite_count": 39,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087153.318112",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 9593
+      },
+      "retweet_count": 59,
+      "favorite_count": 119,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087153.319109",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 8745
+      },
+      "retweet_count": 44,
+      "favorite_count": 147,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087153.319109",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 3116
+      },
+      "retweet_count": 20,
+      "favorite_count": 158,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087153.319109",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 2231
+      },
+      "retweet_count": 67,
+      "favorite_count": 149,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087153.319109",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 8851
+      },
+      "retweet_count": 73,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087153.320106",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 7913
+      },
+      "retweet_count": 50,
+      "favorite_count": 38,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087153.320106",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 8455
+      },
+      "retweet_count": 37,
+      "favorite_count": 94,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087153.321104",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 1720
+      },
+      "retweet_count": 47,
+      "favorite_count": 73,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087153.321104",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 4099
+      },
+      "retweet_count": 68,
+      "favorite_count": 153,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087153.321104",
+      "text": "Le volume d'\u00e9changes de Polygon est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 4000
+      },
+      "retweet_count": 78,
+      "favorite_count": 97,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087153.321104",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 1595
+      },
+      "retweet_count": 50,
+      "favorite_count": 152,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087153.322102",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 1931
+      },
+      "retweet_count": 33,
+      "favorite_count": 180,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087153.322286",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 1086
+      },
+      "retweet_count": 61,
+      "favorite_count": 190,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087153.322286",
+      "text": "Comparaison int\u00e9ressante entre Polygon et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 5547
+      },
+      "retweet_count": 12,
+      "favorite_count": 176,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087153.323099",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 8764
+      },
+      "retweet_count": 93,
+      "favorite_count": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087153.323099",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 4545
+      },
+      "retweet_count": 42,
+      "favorite_count": 134,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087153.323099",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 8854
+      },
+      "retweet_count": 21,
+      "favorite_count": 169,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087153.324097",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 4407
+      },
+      "retweet_count": 30,
+      "favorite_count": 32,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087153.324097",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 3912
+      },
+      "retweet_count": 72,
+      "favorite_count": 61,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087153.324748",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 2721
+      },
+      "retweet_count": 88,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087153.325093",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 7788
+      },
+      "retweet_count": 45,
+      "favorite_count": 183,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087153.325363",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 1132
+      },
+      "retweet_count": 41,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087153.325363",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 6937
+      },
+      "retweet_count": 54,
+      "favorite_count": 83,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087153.326091",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 8996
+      },
+      "retweet_count": 56,
+      "favorite_count": 44,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087153.326091",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 4499
+      },
+      "retweet_count": 75,
+      "favorite_count": 50,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087153.326091",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 2895
+      },
+      "retweet_count": 54,
+      "favorite_count": 103,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087153.326091",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 2914
+      },
+      "retweet_count": 97,
+      "favorite_count": 181,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087153.326091",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 9535
+      },
+      "retweet_count": 15,
+      "favorite_count": 26,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087153.326091",
+      "text": "J'adore Polygon! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 9716
+      },
+      "retweet_count": 80,
+      "favorite_count": 43,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087153.327087",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 593
+      },
+      "retweet_count": 85,
+      "favorite_count": 52,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087153.327087",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 1378
+      },
+      "retweet_count": 98,
+      "favorite_count": 148,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087153.327087",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 7987
+      },
+      "retweet_count": 95,
+      "favorite_count": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087153.327087",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 8738
+      },
+      "retweet_count": 38,
+      "favorite_count": 63,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087153.327087",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 9536
+      },
+      "retweet_count": 24,
+      "favorite_count": 32,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087153.328085",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 9537
+      },
+      "retweet_count": 21,
+      "favorite_count": 177,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087153.328085",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 4359
+      },
+      "retweet_count": 19,
+      "favorite_count": 54,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087153.328085",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 4606
+      },
+      "retweet_count": 68,
+      "favorite_count": 179,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087153.328085",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Polygon ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 9790
+      },
+      "retweet_count": 31,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087153.328734",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 9948
+      },
+      "retweet_count": 18,
+      "favorite_count": 123,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087153.329264",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 1544
+      },
+      "retweet_count": 53,
+      "favorite_count": 24,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087153.329264",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 3019
+      },
+      "retweet_count": 34,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087153.329264",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 9226
+      },
+      "retweet_count": 16,
+      "favorite_count": 199,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087153.330411",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 6594
+      },
+      "retweet_count": 77,
+      "favorite_count": 115,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087153.331078",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 6908
+      },
+      "retweet_count": 39,
+      "favorite_count": 145,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087153.331078",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 4876
+      },
+      "retweet_count": 63,
+      "favorite_count": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087153.332075",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 8298
+      },
+      "retweet_count": 83,
+      "favorite_count": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087153.333072",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 4302
+      },
+      "retweet_count": 50,
+      "favorite_count": 43,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087153.333718",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 2437
+      },
+      "retweet_count": 66,
+      "favorite_count": 163,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087153.334068",
+      "text": "Polygon a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 8474
+      },
+      "retweet_count": 26,
+      "favorite_count": 198,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087153.334068",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 7516
+      },
+      "retweet_count": 69,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087153.334068",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 9226
+      },
+      "retweet_count": 47,
+      "favorite_count": 70,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087153.3351",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 9500
+      },
+      "retweet_count": 83,
+      "favorite_count": 73,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087153.3351",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 163
+      },
+      "retweet_count": 89,
+      "favorite_count": 53,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087153.3351",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Polygon sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 7346
+      },
+      "retweet_count": 79,
+      "favorite_count": 103,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087153.3351",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 8899
+      },
+      "retweet_count": 81,
+      "favorite_count": 54,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087153.3351",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 6362
+      },
+      "retweet_count": 36,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087153.336066",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 2882
+      },
+      "retweet_count": 49,
+      "favorite_count": 21,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087153.336066",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 119
+      },
+      "retweet_count": 35,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087153.336538",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 2721
+      },
+      "retweet_count": 27,
+      "favorite_count": 137,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087153.336538",
+      "text": "Les probl\u00e8mes techniques de Polygon sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 8572
+      },
+      "retweet_count": 2,
+      "favorite_count": 148,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087153.336538",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 9499
+      },
+      "retweet_count": 31,
+      "favorite_count": 180,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087153.337062",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 7960
+      },
+      "retweet_count": 19,
+      "favorite_count": 65,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087153.337062",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 8014
+      },
+      "retweet_count": 40,
+      "favorite_count": 117,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087153.337062",
+      "text": "Polygon r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 760
+      },
+      "retweet_count": 24,
+      "favorite_count": 35,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087153.337062",
+      "text": "Polygon est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 3407
+      },
+      "retweet_count": 45,
+      "favorite_count": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087153.337062",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 7603
+      },
+      "retweet_count": 24,
+      "favorite_count": 130,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087153.338059",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 5985
+      },
+      "retweet_count": 0,
+      "favorite_count": 83,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087153.338059",
+      "text": "Je viens de vendre tout mon Polygon. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 2561
+      },
+      "retweet_count": 1,
+      "favorite_count": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087153.338059",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 2733
+      },
+      "retweet_count": 13,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087153.338059",
+      "text": "Comment voyez-vous Polygon dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 5238
+      },
+      "retweet_count": 55,
+      "favorite_count": 21,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087153.338059",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 6971
+      },
+      "retweet_count": 3,
+      "favorite_count": 116,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087153.339058",
+      "text": "Polygon est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 5328
+      },
+      "retweet_count": 28,
+      "favorite_count": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_0_1743087153.341392",
+      "text": "J'adore $MATIC! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 616
+      },
+      "retweet_count": 12,
+      "favorite_count": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087153.341392",
+      "text": "$MATIC est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 5047
+      },
+      "retweet_count": 75,
+      "favorite_count": 116,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087153.342049",
+      "text": "$MATIC est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 4483
+      },
+      "retweet_count": 36,
+      "favorite_count": 116,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087153.342049",
+      "text": "J'adore $MATIC! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 219
+      },
+      "retweet_count": 81,
+      "favorite_count": 92,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087153.342049",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $MATIC ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 9877
+      },
+      "retweet_count": 4,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087153.342049",
+      "text": "$MATIC est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 8679
+      },
+      "retweet_count": 71,
+      "favorite_count": 45,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087153.342049",
+      "text": "Vient d'acheter plus de $MATIC. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 4647
+      },
+      "retweet_count": 40,
+      "favorite_count": 58,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087153.343046",
+      "text": "Comment voyez-vous $MATIC dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 3474
+      },
+      "retweet_count": 66,
+      "favorite_count": 139,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087153.343046",
+      "text": "Je viens de vendre tout mon $MATIC. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 5883
+      },
+      "retweet_count": 43,
+      "favorite_count": 8,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087153.343046",
+      "text": "La r\u00e9gulation va frapper $MATIC durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 4287
+      },
+      "retweet_count": 53,
+      "favorite_count": 189,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087153.343046",
+      "text": "Je viens de vendre tout mon $MATIC. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 4224
+      },
+      "retweet_count": 24,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087153.344043",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $MATIC? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 5692
+      },
+      "retweet_count": 34,
+      "favorite_count": 112,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087153.344207",
+      "text": "$MATIC a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 8574
+      },
+      "retweet_count": 46,
+      "favorite_count": 101,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087153.344207",
+      "text": "$MATIC est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 1154
+      },
+      "retweet_count": 98,
+      "favorite_count": 176,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087153.344207",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $MATIC ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 7061
+      },
+      "retweet_count": 89,
+      "favorite_count": 193,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087153.344207",
+      "text": "Comparaison int\u00e9ressante entre $MATIC et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 8496
+      },
+      "retweet_count": 61,
+      "favorite_count": 140,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087153.34504",
+      "text": "$MATIC r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 2808
+      },
+      "retweet_count": 92,
+      "favorite_count": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087153.34504",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $MATIC sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 2751
+      },
+      "retweet_count": 76,
+      "favorite_count": 148,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087153.34504",
+      "text": "Je viens de vendre tout mon $MATIC. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 5197
+      },
+      "retweet_count": 26,
+      "favorite_count": 5,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087153.34504",
+      "text": "Le volume d'\u00e9changes de $MATIC est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 5140
+      },
+      "retweet_count": 43,
+      "favorite_count": 41,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087153.347043",
+      "text": "J'adore $MATIC! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 1841
+      },
+      "retweet_count": 53,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087153.34903",
+      "text": "Les probl\u00e8mes techniques de $MATIC sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 6108
+      },
+      "retweet_count": 49,
+      "favorite_count": 185,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087153.350205",
+      "text": "$MATIC est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 503
+      },
+      "retweet_count": 31,
+      "favorite_count": 98,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087153.350205",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $MATIC sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 2170
+      },
+      "retweet_count": 85,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087153.350958",
+      "text": "$MATIC est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 3432
+      },
+      "retweet_count": 78,
+      "favorite_count": 76,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087153.351055",
+      "text": "La r\u00e9gulation va frapper $MATIC durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 8317
+      },
+      "retweet_count": 77,
+      "favorite_count": 33,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087153.351055",
+      "text": "Le volume d'\u00e9changes de $MATIC est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 3477
+      },
+      "retweet_count": 45,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087153.351055",
+      "text": "$MATIC r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 1927
+      },
+      "retweet_count": 14,
+      "favorite_count": 125,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087153.351055",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $MATIC ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 4943
+      },
+      "retweet_count": 8,
+      "favorite_count": 59,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087153.352043",
+      "text": "Comparaison int\u00e9ressante entre $MATIC et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 9632
+      },
+      "retweet_count": 37,
+      "favorite_count": 42,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087153.352043",
+      "text": "Comparaison int\u00e9ressante entre $MATIC et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 5154
+      },
+      "retweet_count": 27,
+      "favorite_count": 20,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087153.352043",
+      "text": "$MATIC a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 422
+      },
+      "retweet_count": 91,
+      "favorite_count": 47,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087153.352043",
+      "text": "$MATIC est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 2137
+      },
+      "retweet_count": 5,
+      "favorite_count": 109,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087153.352043",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $MATIC? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 8547
+      },
+      "retweet_count": 56,
+      "favorite_count": 104,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087153.353018",
+      "text": "J'adore $MATIC! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 7477
+      },
+      "retweet_count": 86,
+      "favorite_count": 107,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087153.353018",
+      "text": "Le volume d'\u00e9changes de $MATIC est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 8239
+      },
+      "retweet_count": 95,
+      "favorite_count": 37,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087153.353018",
+      "text": "Comment voyez-vous $MATIC dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 8979
+      },
+      "retweet_count": 77,
+      "favorite_count": 132,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087153.353018",
+      "text": "Comment voyez-vous $MATIC dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 707
+      },
+      "retweet_count": 25,
+      "favorite_count": 132,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087153.353018",
+      "text": "La r\u00e9gulation va frapper $MATIC durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 1794
+      },
+      "retweet_count": 13,
+      "favorite_count": 99,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087153.353018",
+      "text": "Je viens de vendre tout mon $MATIC. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 4999
+      },
+      "retweet_count": 58,
+      "favorite_count": 108,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087153.354015",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $MATIC sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 2871
+      },
+      "retweet_count": 82,
+      "favorite_count": 150,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087153.354015",
+      "text": "J'adore $MATIC! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 7108
+      },
+      "retweet_count": 40,
+      "favorite_count": 171,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087153.354015",
+      "text": "J'adore $MATIC! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 1786
+      },
+      "retweet_count": 57,
+      "favorite_count": 81,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087153.354015",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $MATIC sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 6177
+      },
+      "retweet_count": 87,
+      "favorite_count": 143,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087153.354015",
+      "text": "$MATIC est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 546
+      },
+      "retweet_count": 41,
+      "favorite_count": 151,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087153.354015",
+      "text": "$MATIC a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 1040
+      },
+      "retweet_count": 45,
+      "favorite_count": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087153.355012",
+      "text": "$MATIC r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 2124
+      },
+      "retweet_count": 54,
+      "favorite_count": 19,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087153.355012",
+      "text": "Vient d'acheter plus de $MATIC. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 4346
+      },
+      "retweet_count": 68,
+      "favorite_count": 27,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087153.355012",
+      "text": "Le volume d'\u00e9changes de $MATIC est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 2230
+      },
+      "retweet_count": 18,
+      "favorite_count": 93,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087153.355012",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $MATIC ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 4320
+      },
+      "retweet_count": 16,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087153.355012",
+      "text": "Comment voyez-vous $MATIC dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 9196
+      },
+      "retweet_count": 89,
+      "favorite_count": 185,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087153.355012",
+      "text": "$MATIC est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 175
+      },
+      "retweet_count": 1,
+      "favorite_count": 118,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087153.356009",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $MATIC? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 3735
+      },
+      "retweet_count": 46,
+      "favorite_count": 61,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087153.356009",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $MATIC sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 3452
+      },
+      "retweet_count": 58,
+      "favorite_count": 178,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087153.356009",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $MATIC? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 7438
+      },
+      "retweet_count": 77,
+      "favorite_count": 18,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087153.356009",
+      "text": "Les probl\u00e8mes techniques de $MATIC sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 8028
+      },
+      "retweet_count": 65,
+      "favorite_count": 192,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087153.356842",
+      "text": "$MATIC r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 8234
+      },
+      "retweet_count": 98,
+      "favorite_count": 189,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087153.357007",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $MATIC sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 4551
+      },
+      "retweet_count": 74,
+      "favorite_count": 28,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087153.357007",
+      "text": "Comparaison int\u00e9ressante entre $MATIC et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 2651
+      },
+      "retweet_count": 29,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087153.357007",
+      "text": "Comment voyez-vous $MATIC dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 3734
+      },
+      "retweet_count": 88,
+      "favorite_count": 2,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087153.357007",
+      "text": "Les probl\u00e8mes techniques de $MATIC sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 7231
+      },
+      "retweet_count": 10,
+      "favorite_count": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087153.357007",
+      "text": "$MATIC a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 206
+      },
+      "retweet_count": 26,
+      "favorite_count": 13,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087153.357007",
+      "text": "Vient d'acheter plus de $MATIC. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 779
+      },
+      "retweet_count": 26,
+      "favorite_count": 178,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087153.358004",
+      "text": "J'adore $MATIC! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 9951
+      },
+      "retweet_count": 58,
+      "favorite_count": 38,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087153.358004",
+      "text": "$MATIC a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 2431
+      },
+      "retweet_count": 96,
+      "favorite_count": 15,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087153.358004",
+      "text": "La r\u00e9gulation va frapper $MATIC durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 9777
+      },
+      "retweet_count": 47,
+      "favorite_count": 50,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087153.358599",
+      "text": "Vient d'acheter plus de $MATIC. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 8742
+      },
+      "retweet_count": 63,
+      "favorite_count": 29,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087153.358599",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $MATIC sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 3109
+      },
+      "retweet_count": 3,
+      "favorite_count": 128,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087153.358599",
+      "text": "Comment voyez-vous $MATIC dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 5465
+      },
+      "retweet_count": 73,
+      "favorite_count": 7,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087153.35954",
+      "text": "Le volume d'\u00e9changes de $MATIC est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 5760
+      },
+      "retweet_count": 47,
+      "favorite_count": 166,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087153.35954",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $MATIC sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 2569
+      },
+      "retweet_count": 16,
+      "favorite_count": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087153.35954",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $MATIC ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 8174
+      },
+      "retweet_count": 29,
+      "favorite_count": 99,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087153.35954",
+      "text": "Le volume d'\u00e9changes de $MATIC est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 7129
+      },
+      "retweet_count": 11,
+      "favorite_count": 47,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087153.360538",
+      "text": "La r\u00e9gulation va frapper $MATIC durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 3871
+      },
+      "retweet_count": 79,
+      "favorite_count": 148,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087153.360538",
+      "text": "J'adore $MATIC! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 1547
+      },
+      "retweet_count": 41,
+      "favorite_count": 131,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087153.360538",
+      "text": "$MATIC est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 5641
+      },
+      "retweet_count": 99,
+      "favorite_count": 147,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087153.360538",
+      "text": "La r\u00e9gulation va frapper $MATIC durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 5760
+      },
+      "retweet_count": 55,
+      "favorite_count": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087153.360538",
+      "text": "Je viens de vendre tout mon $MATIC. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 4451
+      },
+      "retweet_count": 17,
+      "favorite_count": 84,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087153.360538",
+      "text": "$MATIC a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 2356
+      },
+      "retweet_count": 72,
+      "favorite_count": 30,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087153.36164",
+      "text": "$MATIC est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 6597
+      },
+      "retweet_count": 33,
+      "favorite_count": 2,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087153.36164",
+      "text": "Les probl\u00e8mes techniques de $MATIC sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 6439
+      },
+      "retweet_count": 27,
+      "favorite_count": 131,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087153.36272",
+      "text": "Je viens de vendre tout mon $MATIC. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 2962
+      },
+      "retweet_count": 67,
+      "favorite_count": 10,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087153.36272",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $MATIC? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 5812
+      },
+      "retweet_count": 7,
+      "favorite_count": 99,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087153.363529",
+      "text": "$MATIC a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 4918
+      },
+      "retweet_count": 41,
+      "favorite_count": 45,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087153.363529",
+      "text": "La r\u00e9gulation va frapper $MATIC durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 7769
+      },
+      "retweet_count": 46,
+      "favorite_count": 107,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087153.363529",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $MATIC ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 4801
+      },
+      "retweet_count": 8,
+      "favorite_count": 74,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087153.364529",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $MATIC? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 9505
+      },
+      "retweet_count": 63,
+      "favorite_count": 169,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087153.364529",
+      "text": "La r\u00e9gulation va frapper $MATIC durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 8823
+      },
+      "retweet_count": 46,
+      "favorite_count": 183,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087153.365526",
+      "text": "Vient d'acheter plus de $MATIC. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 7310
+      },
+      "retweet_count": 28,
+      "favorite_count": 132,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087153.365526",
+      "text": "Vient d'acheter plus de $MATIC. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 4888
+      },
+      "retweet_count": 36,
+      "favorite_count": 112,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087153.365526",
+      "text": "$MATIC est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 5812
+      },
+      "retweet_count": 82,
+      "favorite_count": 143,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087153.365526",
+      "text": "Comment voyez-vous $MATIC dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 6437
+      },
+      "retweet_count": 71,
+      "favorite_count": 138,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087153.365526",
+      "text": "$MATIC est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 1580
+      },
+      "retweet_count": 16,
+      "favorite_count": 5,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087153.366522",
+      "text": "Les probl\u00e8mes techniques de $MATIC sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 3323
+      },
+      "retweet_count": 41,
+      "favorite_count": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087153.366522",
+      "text": "Les probl\u00e8mes techniques de $MATIC sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 2048
+      },
+      "retweet_count": 21,
+      "favorite_count": 177,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087153.366522",
+      "text": "La r\u00e9gulation va frapper $MATIC durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 7962
+      },
+      "retweet_count": 41,
+      "favorite_count": 113,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087153.367547",
+      "text": "Le volume d'\u00e9changes de $MATIC est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 3331
+      },
+      "retweet_count": 18,
+      "favorite_count": 166,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087153.368516",
+      "text": "Je viens de vendre tout mon $MATIC. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 4586
+      },
+      "retweet_count": 44,
+      "favorite_count": 63,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087153.3701",
+      "text": "Comment voyez-vous $MATIC dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 2958
+      },
+      "retweet_count": 41,
+      "favorite_count": 33,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087153.3701",
+      "text": "J'adore $MATIC! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 2679
+      },
+      "retweet_count": 7,
+      "favorite_count": 67,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    }
+  ],
+  "popular_tweets": [
+    {
+      "id": "tweet_24_1743087153.291184",
+      "text": "La r\u00e9gulation va frapper Polygon durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 5059
+      },
+      "retweet_count": 92,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087153.356842",
+      "text": "$MATIC r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 8234
+      },
+      "retweet_count": 98,
+      "favorite_count": 189,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087153.344207",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $MATIC ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 7061
+      },
+      "retweet_count": 89,
+      "favorite_count": 193,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087153.25628",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Polygon? #crypto #info",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 9909
+      },
+      "retweet_count": 87,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087153.326091",
+      "text": "Vient d'acheter plus de Polygon. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:33",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 2914
+      },
+      "retweet_count": 97,
+      "favorite_count": 181,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    }
+  ],
+  "timestamp": "2025-03-27 15:52:33"
+}

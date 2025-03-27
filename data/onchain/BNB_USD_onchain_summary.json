@@ -1,0 +1,25 @@
+{
+  "symbol": "BNB-USD",
+  "latest_date": "2025-03-27",
+  "active_addresses": 4597,
+  "transactions": 43219,
+  "volume": 35700,
+  "fees": 436,
+  "weekly_change": {
+    "active_addresses": -7.99,
+    "transactions": 11.13,
+    "volume": -7.15
+  },
+  "monthly_change": {
+    "active_addresses": 43.97,
+    "transactions": 23.29,
+    "volume": -5.91
+  },
+  "averages": {
+    "daily_transactions": 34170.51,
+    "daily_volume": 44496.4,
+    "daily_active_addresses": 3330.73
+  },
+  "onchain_score": 49.33,
+  "signal": "NEUTRE"
+}

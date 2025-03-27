@@ -1,0 +1,25 @@
+{
+  "symbol": "ETH-USD",
+  "latest_date": "2025-03-27",
+  "active_addresses": 2206,
+  "transactions": 34282,
+  "volume": 109991,
+  "fees": 1092,
+  "weekly_change": {
+    "active_addresses": -6.6,
+    "transactions": 3.38,
+    "volume": 2.99
+  },
+  "monthly_change": {
+    "active_addresses": -9.33,
+    "transactions": 59.55,
+    "volume": -9.38
+  },
+  "averages": {
+    "daily_transactions": 27786.1,
+    "daily_volume": 98874.14,
+    "daily_active_addresses": 2427.7
+  },
+  "onchain_score": 49.96,
+  "signal": "NEUTRE"
+}

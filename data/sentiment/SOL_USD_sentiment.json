@@ -1,0 +1,5285 @@
+{
+  "symbol": "SOL-USD",
+  "name": "Solana",
+  "sentiment_score": 0.0,
+  "sentiment_label": "Neutre",
+  "tweet_count": 400,
+  "positive_count": 0,
+  "negative_count": 0,
+  "neutral_count": 400,
+  "sentiment_percentages": {
+    "positive": 0.0,
+    "negative": 0.0,
+    "neutral": 100.0
+  },
+  "tweets": [
+    {
+      "id": "tweet_0_1743087150.619193",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 5247
+      },
+      "retweet_count": 55,
+      "favorite_count": 185,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087150.619193",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 972
+      },
+      "retweet_count": 32,
+      "favorite_count": 101,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087150.619193",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 2101
+      },
+      "retweet_count": 71,
+      "favorite_count": 14,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087150.620185",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 4070
+      },
+      "retweet_count": 76,
+      "favorite_count": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087150.620185",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 5518
+      },
+      "retweet_count": 67,
+      "favorite_count": 107,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087150.620185",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 8771
+      },
+      "retweet_count": 98,
+      "favorite_count": 131,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087150.621181",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 5313
+      },
+      "retweet_count": 62,
+      "favorite_count": 19,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087150.622179",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 8811
+      },
+      "retweet_count": 19,
+      "favorite_count": 53,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087150.622179",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 7104
+      },
+      "retweet_count": 31,
+      "favorite_count": 156,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087150.622179",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 7023
+      },
+      "retweet_count": 83,
+      "favorite_count": 101,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087150.623177",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 8778
+      },
+      "retweet_count": 58,
+      "favorite_count": 158,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087150.623177",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 7473
+      },
+      "retweet_count": 9,
+      "favorite_count": 40,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087150.623177",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 8406
+      },
+      "retweet_count": 85,
+      "favorite_count": 186,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087150.623177",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 6824
+      },
+      "retweet_count": 15,
+      "favorite_count": 110,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087150.624174",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 6030
+      },
+      "retweet_count": 42,
+      "favorite_count": 98,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087150.624174",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 1942
+      },
+      "retweet_count": 93,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087150.624174",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 2054
+      },
+      "retweet_count": 66,
+      "favorite_count": 18,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087150.625172",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 9256
+      },
+      "retweet_count": 47,
+      "favorite_count": 41,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087150.625172",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 882
+      },
+      "retweet_count": 93,
+      "favorite_count": 14,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087150.625172",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 210
+      },
+      "retweet_count": 63,
+      "favorite_count": 10,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087150.625172",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 2268
+      },
+      "retweet_count": 87,
+      "favorite_count": 13,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087150.626168",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 8751
+      },
+      "retweet_count": 28,
+      "favorite_count": 140,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087150.626168",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 936
+      },
+      "retweet_count": 72,
+      "favorite_count": 81,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087150.626168",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 8013
+      },
+      "retweet_count": 65,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087150.631157",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 8726
+      },
+      "retweet_count": 89,
+      "favorite_count": 46,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087150.632218",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 8250
+      },
+      "retweet_count": 86,
+      "favorite_count": 4,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087150.633151",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 9998
+      },
+      "retweet_count": 19,
+      "favorite_count": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087150.636146",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 8563
+      },
+      "retweet_count": 77,
+      "favorite_count": 102,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087150.637141",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 1387
+      },
+      "retweet_count": 31,
+      "favorite_count": 184,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087150.638221",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 6101
+      },
+      "retweet_count": 80,
+      "favorite_count": 22,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087150.639142",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 9348
+      },
+      "retweet_count": 20,
+      "favorite_count": 42,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087150.639142",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 8320
+      },
+      "retweet_count": 33,
+      "favorite_count": 2,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087150.639142",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 8331
+      },
+      "retweet_count": 0,
+      "favorite_count": 105,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087150.639142",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 1599
+      },
+      "retweet_count": 28,
+      "favorite_count": 172,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087150.639142",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 7520
+      },
+      "retweet_count": 0,
+      "favorite_count": 185,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087150.639142",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 4817
+      },
+      "retweet_count": 87,
+      "favorite_count": 112,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087150.639142",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 5171
+      },
+      "retweet_count": 18,
+      "favorite_count": 18,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087150.640131",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 3500
+      },
+      "retweet_count": 93,
+      "favorite_count": 99,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087150.640131",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 470
+      },
+      "retweet_count": 22,
+      "favorite_count": 33,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087150.640131",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 7945
+      },
+      "retweet_count": 96,
+      "favorite_count": 147,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087150.640131",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 1681
+      },
+      "retweet_count": 18,
+      "favorite_count": 172,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087150.640131",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 7809
+      },
+      "retweet_count": 34,
+      "favorite_count": 14,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087150.640131",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 3957
+      },
+      "retweet_count": 81,
+      "favorite_count": 150,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087150.640131",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 7464
+      },
+      "retweet_count": 61,
+      "favorite_count": 1,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087150.640131",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 467
+      },
+      "retweet_count": 57,
+      "favorite_count": 52,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087150.641128",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 917
+      },
+      "retweet_count": 70,
+      "favorite_count": 116,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087150.641128",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 8219
+      },
+      "retweet_count": 95,
+      "favorite_count": 151,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087150.641128",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 6244
+      },
+      "retweet_count": 64,
+      "favorite_count": 182,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087150.641128",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 1738
+      },
+      "retweet_count": 51,
+      "favorite_count": 163,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087150.641128",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 1132
+      },
+      "retweet_count": 19,
+      "favorite_count": 190,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087150.641128",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 4259
+      },
+      "retweet_count": 82,
+      "favorite_count": 164,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087150.641128",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 1236
+      },
+      "retweet_count": 4,
+      "favorite_count": 169,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087150.641128",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 8582
+      },
+      "retweet_count": 64,
+      "favorite_count": 87,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087150.642125",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 5474
+      },
+      "retweet_count": 4,
+      "favorite_count": 17,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087150.642125",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 7121
+      },
+      "retweet_count": 57,
+      "favorite_count": 10,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087150.642125",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 5497
+      },
+      "retweet_count": 18,
+      "favorite_count": 10,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087150.642125",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 9576
+      },
+      "retweet_count": 61,
+      "favorite_count": 106,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087150.642125",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 6195
+      },
+      "retweet_count": 70,
+      "favorite_count": 144,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087150.642125",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 3547
+      },
+      "retweet_count": 64,
+      "favorite_count": 70,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087150.642125",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 1138
+      },
+      "retweet_count": 86,
+      "favorite_count": 195,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087150.643137",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 2661
+      },
+      "retweet_count": 67,
+      "favorite_count": 172,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087150.643137",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 3845
+      },
+      "retweet_count": 5,
+      "favorite_count": 118,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087150.644121",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 8685
+      },
+      "retweet_count": 24,
+      "favorite_count": 166,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087150.644121",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 3669
+      },
+      "retweet_count": 34,
+      "favorite_count": 157,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087150.644121",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 5395
+      },
+      "retweet_count": 17,
+      "favorite_count": 21,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087150.645119",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 5224
+      },
+      "retweet_count": 35,
+      "favorite_count": 111,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087150.645119",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 544
+      },
+      "retweet_count": 32,
+      "favorite_count": 37,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087150.645119",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 3032
+      },
+      "retweet_count": 72,
+      "favorite_count": 24,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087150.645119",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 9598
+      },
+      "retweet_count": 47,
+      "favorite_count": 21,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087150.645119",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 5779
+      },
+      "retweet_count": 17,
+      "favorite_count": 87,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087150.64612",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 9317
+      },
+      "retweet_count": 10,
+      "favorite_count": 127,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087150.64612",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 4615
+      },
+      "retweet_count": 9,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087150.64612",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 2332
+      },
+      "retweet_count": 20,
+      "favorite_count": 8,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087150.64811",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 4926
+      },
+      "retweet_count": 20,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087150.64811",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 2640
+      },
+      "retweet_count": 78,
+      "favorite_count": 16,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087150.649107",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 7116
+      },
+      "retweet_count": 41,
+      "favorite_count": 70,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087150.649107",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 6087
+      },
+      "retweet_count": 47,
+      "favorite_count": 104,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087150.650105",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 5256
+      },
+      "retweet_count": 31,
+      "favorite_count": 151,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087150.650105",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 1860
+      },
+      "retweet_count": 65,
+      "favorite_count": 111,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087150.650105",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 4189
+      },
+      "retweet_count": 1,
+      "favorite_count": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087150.651101",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 5710
+      },
+      "retweet_count": 34,
+      "favorite_count": 106,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087150.652182",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 5824
+      },
+      "retweet_count": 86,
+      "favorite_count": 67,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087150.653096",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 2872
+      },
+      "retweet_count": 35,
+      "favorite_count": 95,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087150.653096",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 7482
+      },
+      "retweet_count": 92,
+      "favorite_count": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087150.654093",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 5533
+      },
+      "retweet_count": 41,
+      "favorite_count": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087150.654093",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 7679
+      },
+      "retweet_count": 15,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087150.654093",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 1638
+      },
+      "retweet_count": 11,
+      "favorite_count": 147,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087150.654093",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 3025
+      },
+      "retweet_count": 1,
+      "favorite_count": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087150.655091",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 121
+      },
+      "retweet_count": 38,
+      "favorite_count": 188,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087150.655091",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 4785
+      },
+      "retweet_count": 80,
+      "favorite_count": 120,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087150.655091",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 3912
+      },
+      "retweet_count": 6,
+      "favorite_count": 95,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087150.655091",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 315
+      },
+      "retweet_count": 39,
+      "favorite_count": 81,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087150.655091",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 1822
+      },
+      "retweet_count": 80,
+      "favorite_count": 18,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087150.655091",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 2534
+      },
+      "retweet_count": 8,
+      "favorite_count": 97,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087150.655091",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 9566
+      },
+      "retweet_count": 21,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087150.656091",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 6282
+      },
+      "retweet_count": 96,
+      "favorite_count": 136,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087150.656091",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 224
+      },
+      "retweet_count": 83,
+      "favorite_count": 149,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087150.656091",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 6768
+      },
+      "retweet_count": 87,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087150.656091",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 423
+      },
+      "retweet_count": 86,
+      "favorite_count": 150,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087150.656091",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 439
+      },
+      "retweet_count": 34,
+      "favorite_count": 178,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_0_1743087150.665067",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 191
+      },
+      "retweet_count": 91,
+      "favorite_count": 94,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087150.668057",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 5813
+      },
+      "retweet_count": 30,
+      "favorite_count": 12,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087150.669055",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 8602
+      },
+      "retweet_count": 24,
+      "favorite_count": 168,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087150.669055",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 1700
+      },
+      "retweet_count": 5,
+      "favorite_count": 13,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087150.669055",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 9530
+      },
+      "retweet_count": 67,
+      "favorite_count": 132,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087150.670052",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 5780
+      },
+      "retweet_count": 71,
+      "favorite_count": 171,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087150.670052",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 4797
+      },
+      "retweet_count": 67,
+      "favorite_count": 123,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087150.670052",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 6259
+      },
+      "retweet_count": 70,
+      "favorite_count": 108,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087150.670052",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 3715
+      },
+      "retweet_count": 71,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087150.670052",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 8618
+      },
+      "retweet_count": 56,
+      "favorite_count": 32,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087150.671048",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 2801
+      },
+      "retweet_count": 71,
+      "favorite_count": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087150.671048",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 6920
+      },
+      "retweet_count": 74,
+      "favorite_count": 19,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087150.671048",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 849
+      },
+      "retweet_count": 22,
+      "favorite_count": 35,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087150.672046",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 1210
+      },
+      "retweet_count": 20,
+      "favorite_count": 94,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087150.672046",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 2904
+      },
+      "retweet_count": 69,
+      "favorite_count": 110,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087150.673044",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 2419
+      },
+      "retweet_count": 17,
+      "favorite_count": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087150.673044",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 3461
+      },
+      "retweet_count": 51,
+      "favorite_count": 129,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087150.673044",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 8813
+      },
+      "retweet_count": 11,
+      "favorite_count": 199,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087150.677033",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 4636
+      },
+      "retweet_count": 93,
+      "favorite_count": 181,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087150.677033",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 9207
+      },
+      "retweet_count": 33,
+      "favorite_count": 106,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087150.678052",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 1833
+      },
+      "retweet_count": 3,
+      "favorite_count": 183,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087150.678052",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 9416
+      },
+      "retweet_count": 31,
+      "favorite_count": 186,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087150.678052",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 4713
+      },
+      "retweet_count": 72,
+      "favorite_count": 15,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087150.679028",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 7920
+      },
+      "retweet_count": 48,
+      "favorite_count": 69,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087150.679028",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 2627
+      },
+      "retweet_count": 89,
+      "favorite_count": 72,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087150.679028",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 2974
+      },
+      "retweet_count": 8,
+      "favorite_count": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087150.680024",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 6197
+      },
+      "retweet_count": 62,
+      "favorite_count": 11,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087150.680024",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 4037
+      },
+      "retweet_count": 73,
+      "favorite_count": 65,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087150.680024",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 2127
+      },
+      "retweet_count": 56,
+      "favorite_count": 177,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087150.681153",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 3111
+      },
+      "retweet_count": 73,
+      "favorite_count": 192,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087150.681153",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 7618
+      },
+      "retweet_count": 64,
+      "favorite_count": 8,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087150.681153",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 1621
+      },
+      "retweet_count": 99,
+      "favorite_count": 139,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087150.686276",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 3297
+      },
+      "retweet_count": 74,
+      "favorite_count": 194,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087150.686276",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 6822
+      },
+      "retweet_count": 90,
+      "favorite_count": 27,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087150.686276",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 1708
+      },
+      "retweet_count": 49,
+      "favorite_count": 96,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087150.687008",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 6012
+      },
+      "retweet_count": 11,
+      "favorite_count": 106,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087150.687008",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 8125
+      },
+      "retweet_count": 88,
+      "favorite_count": 117,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087150.687008",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 9799
+      },
+      "retweet_count": 20,
+      "favorite_count": 180,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087150.687008",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 9619
+      },
+      "retweet_count": 90,
+      "favorite_count": 155,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087150.687008",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 4174
+      },
+      "retweet_count": 47,
+      "favorite_count": 185,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087150.687008",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 5656
+      },
+      "retweet_count": 69,
+      "favorite_count": 126,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087150.688004",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 3696
+      },
+      "retweet_count": 64,
+      "favorite_count": 168,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087150.688004",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 3399
+      },
+      "retweet_count": 10,
+      "favorite_count": 97,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087150.688004",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 636
+      },
+      "retweet_count": 16,
+      "favorite_count": 8,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087150.688004",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 9513
+      },
+      "retweet_count": 33,
+      "favorite_count": 14,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087150.688004",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 1533
+      },
+      "retweet_count": 29,
+      "favorite_count": 160,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087150.688004",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 8829
+      },
+      "retweet_count": 93,
+      "favorite_count": 194,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087150.689001",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 8107
+      },
+      "retweet_count": 75,
+      "favorite_count": 72,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087150.689001",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 3161
+      },
+      "retweet_count": 16,
+      "favorite_count": 174,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087150.689001",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 6154
+      },
+      "retweet_count": 71,
+      "favorite_count": 147,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087150.689536",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 9977
+      },
+      "retweet_count": 66,
+      "favorite_count": 96,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087150.689635",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 5883
+      },
+      "retweet_count": 17,
+      "favorite_count": 144,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087150.689635",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 7435
+      },
+      "retweet_count": 20,
+      "favorite_count": 199,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087150.689997",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 4051
+      },
+      "retweet_count": 77,
+      "favorite_count": 189,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087150.689997",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 6285
+      },
+      "retweet_count": 78,
+      "favorite_count": 6,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087150.689997",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 5436
+      },
+      "retweet_count": 34,
+      "favorite_count": 115,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087150.690732",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 2051
+      },
+      "retweet_count": 11,
+      "favorite_count": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087150.691077",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 2340
+      },
+      "retweet_count": 36,
+      "favorite_count": 185,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087150.691077",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 3984
+      },
+      "retweet_count": 34,
+      "favorite_count": 145,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087150.691077",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 9232
+      },
+      "retweet_count": 87,
+      "favorite_count": 94,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087150.691993",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 5694
+      },
+      "retweet_count": 15,
+      "favorite_count": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087150.691993",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 7621
+      },
+      "retweet_count": 83,
+      "favorite_count": 85,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087150.691993",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 3368
+      },
+      "retweet_count": 7,
+      "favorite_count": 174,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087150.691993",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 3855
+      },
+      "retweet_count": 59,
+      "favorite_count": 19,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087150.691993",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 8989
+      },
+      "retweet_count": 39,
+      "favorite_count": 174,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087150.691993",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 8004
+      },
+      "retweet_count": 44,
+      "favorite_count": 123,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087150.691993",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 8301
+      },
+      "retweet_count": 55,
+      "favorite_count": 134,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087150.692989",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 4147
+      },
+      "retweet_count": 29,
+      "favorite_count": 33,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087150.692989",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 2093
+      },
+      "retweet_count": 13,
+      "favorite_count": 8,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087150.692989",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 8435
+      },
+      "retweet_count": 84,
+      "favorite_count": 39,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087150.692989",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 9941
+      },
+      "retweet_count": 70,
+      "favorite_count": 109,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087150.692989",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 5062
+      },
+      "retweet_count": 51,
+      "favorite_count": 106,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087150.692989",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 4776
+      },
+      "retweet_count": 80,
+      "favorite_count": 144,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087150.692989",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 8271
+      },
+      "retweet_count": 90,
+      "favorite_count": 170,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087150.693986",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 1186
+      },
+      "retweet_count": 35,
+      "favorite_count": 2,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087150.693986",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 4098
+      },
+      "retweet_count": 30,
+      "favorite_count": 117,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087150.693986",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 1842
+      },
+      "retweet_count": 20,
+      "favorite_count": 147,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087150.693986",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 2664
+      },
+      "retweet_count": 41,
+      "favorite_count": 110,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087150.693986",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 5307
+      },
+      "retweet_count": 56,
+      "favorite_count": 108,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087150.693986",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 1626
+      },
+      "retweet_count": 65,
+      "favorite_count": 46,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087150.693986",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 5333
+      },
+      "retweet_count": 78,
+      "favorite_count": 34,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087150.693986",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 7055
+      },
+      "retweet_count": 67,
+      "favorite_count": 165,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087150.694983",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 607
+      },
+      "retweet_count": 52,
+      "favorite_count": 40,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087150.694983",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 2220
+      },
+      "retweet_count": 22,
+      "favorite_count": 101,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087150.694983",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 6141
+      },
+      "retweet_count": 73,
+      "favorite_count": 169,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087150.694983",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 9617
+      },
+      "retweet_count": 72,
+      "favorite_count": 109,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087150.694983",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 2559
+      },
+      "retweet_count": 90,
+      "favorite_count": 10,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087150.694983",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 5978
+      },
+      "retweet_count": 13,
+      "favorite_count": 85,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087150.694983",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 1642
+      },
+      "retweet_count": 47,
+      "favorite_count": 150,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087150.694983",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 4327
+      },
+      "retweet_count": 35,
+      "favorite_count": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087150.695982",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 4606
+      },
+      "retweet_count": 87,
+      "favorite_count": 27,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087150.696283",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 5321
+      },
+      "retweet_count": 80,
+      "favorite_count": 112,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087150.696283",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 1427
+      },
+      "retweet_count": 31,
+      "favorite_count": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087150.696283",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 8127
+      },
+      "retweet_count": 7,
+      "favorite_count": 27,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087150.699971",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 8805
+      },
+      "retweet_count": 86,
+      "favorite_count": 84,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087150.699971",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 1493
+      },
+      "retweet_count": 54,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087150.699971",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 5961
+      },
+      "retweet_count": 80,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087150.700971",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 2263
+      },
+      "retweet_count": 2,
+      "favorite_count": 131,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087150.700971",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 6939
+      },
+      "retweet_count": 79,
+      "favorite_count": 10,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087150.701966",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 549
+      },
+      "retweet_count": 73,
+      "favorite_count": 105,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_0_1743087150.704958",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 9417
+      },
+      "retweet_count": 35,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087150.704958",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 8655
+      },
+      "retweet_count": 65,
+      "favorite_count": 84,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087150.706088",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 6266
+      },
+      "retweet_count": 65,
+      "favorite_count": 47,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087150.706088",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 1359
+      },
+      "retweet_count": 50,
+      "favorite_count": 107,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087150.706088",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 3345
+      },
+      "retweet_count": 33,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087150.706954",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 3137
+      },
+      "retweet_count": 15,
+      "favorite_count": 199,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087150.706954",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 4060
+      },
+      "retweet_count": 92,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087150.706954",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 4120
+      },
+      "retweet_count": 71,
+      "favorite_count": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087150.706954",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 7169
+      },
+      "retweet_count": 81,
+      "favorite_count": 119,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087150.706954",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 2178
+      },
+      "retweet_count": 11,
+      "favorite_count": 27,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087150.70795",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 8384
+      },
+      "retweet_count": 15,
+      "favorite_count": 14,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087150.70795",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 7032
+      },
+      "retweet_count": 57,
+      "favorite_count": 179,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087150.70795",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 3740
+      },
+      "retweet_count": 99,
+      "favorite_count": 85,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087150.70795",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 3013
+      },
+      "retweet_count": 22,
+      "favorite_count": 22,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087150.70795",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 874
+      },
+      "retweet_count": 64,
+      "favorite_count": 188,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087150.70795",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 4486
+      },
+      "retweet_count": 18,
+      "favorite_count": 76,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087150.70795",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 8796
+      },
+      "retweet_count": 84,
+      "favorite_count": 95,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087150.708947",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 1346
+      },
+      "retweet_count": 90,
+      "favorite_count": 129,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087150.708947",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 9961
+      },
+      "retweet_count": 65,
+      "favorite_count": 42,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087150.708947",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 4407
+      },
+      "retweet_count": 86,
+      "favorite_count": 15,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087150.708947",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 3942
+      },
+      "retweet_count": 76,
+      "favorite_count": 94,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087150.708947",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 4377
+      },
+      "retweet_count": 84,
+      "favorite_count": 20,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087150.708947",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 9817
+      },
+      "retweet_count": 80,
+      "favorite_count": 148,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087150.708947",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 3390
+      },
+      "retweet_count": 10,
+      "favorite_count": 109,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087150.708947",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 1933
+      },
+      "retweet_count": 91,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087150.709944",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 8042
+      },
+      "retweet_count": 61,
+      "favorite_count": 103,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087150.709944",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 6732
+      },
+      "retweet_count": 15,
+      "favorite_count": 98,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087150.709944",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 2590
+      },
+      "retweet_count": 60,
+      "favorite_count": 34,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087150.709944",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 8309
+      },
+      "retweet_count": 93,
+      "favorite_count": 43,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087150.709944",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 4070
+      },
+      "retweet_count": 33,
+      "favorite_count": 105,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087150.709944",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 1482
+      },
+      "retweet_count": 64,
+      "favorite_count": 25,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087150.709944",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 3687
+      },
+      "retweet_count": 3,
+      "favorite_count": 195,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087150.710943",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 426
+      },
+      "retweet_count": 14,
+      "favorite_count": 92,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087150.710943",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 5283
+      },
+      "retweet_count": 96,
+      "favorite_count": 69,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087150.710943",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 5371
+      },
+      "retweet_count": 95,
+      "favorite_count": 134,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087150.710943",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 6519
+      },
+      "retweet_count": 91,
+      "favorite_count": 112,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087150.710943",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 7320
+      },
+      "retweet_count": 96,
+      "favorite_count": 115,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087150.710943",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 5972
+      },
+      "retweet_count": 50,
+      "favorite_count": 116,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087150.711939",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 4027
+      },
+      "retweet_count": 78,
+      "favorite_count": 142,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087150.711939",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 9388
+      },
+      "retweet_count": 67,
+      "favorite_count": 159,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087150.711939",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 6845
+      },
+      "retweet_count": 97,
+      "favorite_count": 52,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087150.711939",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 6769
+      },
+      "retweet_count": 89,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087150.71494",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 5131
+      },
+      "retweet_count": 48,
+      "favorite_count": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087150.715929",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 263
+      },
+      "retweet_count": 49,
+      "favorite_count": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087150.715929",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 1370
+      },
+      "retweet_count": 94,
+      "favorite_count": 115,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087150.715929",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 2879
+      },
+      "retweet_count": 11,
+      "favorite_count": 162,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087150.716929",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 5154
+      },
+      "retweet_count": 81,
+      "favorite_count": 52,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087150.717452",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 811
+      },
+      "retweet_count": 91,
+      "favorite_count": 133,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087150.717452",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 5556
+      },
+      "retweet_count": 1,
+      "favorite_count": 120,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087150.717924",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 1040
+      },
+      "retweet_count": 58,
+      "favorite_count": 99,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087150.717924",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 2324
+      },
+      "retweet_count": 93,
+      "favorite_count": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087150.717924",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 7298
+      },
+      "retweet_count": 45,
+      "favorite_count": 63,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087150.718981",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 9978
+      },
+      "retweet_count": 17,
+      "favorite_count": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087150.718981",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 3640
+      },
+      "retweet_count": 60,
+      "favorite_count": 188,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087150.718981",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 8330
+      },
+      "retweet_count": 46,
+      "favorite_count": 124,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087150.718981",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 8216
+      },
+      "retweet_count": 56,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087150.719918",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 9754
+      },
+      "retweet_count": 1,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087150.719918",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 1486
+      },
+      "retweet_count": 42,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087150.719918",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 7266
+      },
+      "retweet_count": 73,
+      "favorite_count": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087150.719918",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 2853
+      },
+      "retweet_count": 17,
+      "favorite_count": 146,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087150.719918",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 5386
+      },
+      "retweet_count": 84,
+      "favorite_count": 0,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087150.720949",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 609
+      },
+      "retweet_count": 87,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087150.720949",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 9459
+      },
+      "retweet_count": 54,
+      "favorite_count": 15,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087150.720949",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 7449
+      },
+      "retweet_count": 4,
+      "favorite_count": 148,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087150.721913",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 7592
+      },
+      "retweet_count": 9,
+      "favorite_count": 165,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087150.722034",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 8888
+      },
+      "retweet_count": 95,
+      "favorite_count": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087150.722034",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 5655
+      },
+      "retweet_count": 5,
+      "favorite_count": 163,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087150.722034",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 1182
+      },
+      "retweet_count": 46,
+      "favorite_count": 76,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087150.722034",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 1311
+      },
+      "retweet_count": 61,
+      "favorite_count": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087150.722034",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 2583
+      },
+      "retweet_count": 49,
+      "favorite_count": 166,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087150.722034",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 8094
+      },
+      "retweet_count": 92,
+      "favorite_count": 61,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087150.722911",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 8818
+      },
+      "retweet_count": 91,
+      "favorite_count": 36,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087150.722911",
+      "text": "Solana est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 2984
+      },
+      "retweet_count": 71,
+      "favorite_count": 22,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087150.722911",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 4584
+      },
+      "retweet_count": 52,
+      "favorite_count": 132,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087150.722911",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 4298
+      },
+      "retweet_count": 24,
+      "favorite_count": 131,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087150.722911",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 8972
+      },
+      "retweet_count": 87,
+      "favorite_count": 180,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087150.722911",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 5862
+      },
+      "retweet_count": 8,
+      "favorite_count": 84,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087150.723907",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 9400
+      },
+      "retweet_count": 9,
+      "favorite_count": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087150.723907",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 4247
+      },
+      "retweet_count": 23,
+      "favorite_count": 94,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087150.724222",
+      "text": "Solana a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 9524
+      },
+      "retweet_count": 53,
+      "favorite_count": 58,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087150.724222",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 1003
+      },
+      "retweet_count": 47,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087150.724222",
+      "text": "Solana r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 3150
+      },
+      "retweet_count": 50,
+      "favorite_count": 178,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087150.724222",
+      "text": "Comment voyez-vous Solana dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 7138
+      },
+      "retweet_count": 3,
+      "favorite_count": 123,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087150.724905",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 6403
+      },
+      "retweet_count": 22,
+      "favorite_count": 190,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087150.724905",
+      "text": "Vient d'acheter plus de Solana. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 1624
+      },
+      "retweet_count": 14,
+      "favorite_count": 192,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087150.724905",
+      "text": "J'adore Solana! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 916
+      },
+      "retweet_count": 26,
+      "favorite_count": 96,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087150.724905",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 4058
+      },
+      "retweet_count": 5,
+      "favorite_count": 18,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087150.724905",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 4288
+      },
+      "retweet_count": 66,
+      "favorite_count": 52,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087150.724905",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 1032
+      },
+      "retweet_count": 68,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087150.725901",
+      "text": "Je viens de vendre tout mon Solana. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 2815
+      },
+      "retweet_count": 47,
+      "favorite_count": 45,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087150.725901",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 4280
+      },
+      "retweet_count": 6,
+      "favorite_count": 112,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087150.725901",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 147
+      },
+      "retweet_count": 22,
+      "favorite_count": 146,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087150.725901",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 8612
+      },
+      "retweet_count": 15,
+      "favorite_count": 182,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087150.725901",
+      "text": "Les probl\u00e8mes techniques de Solana sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 3767
+      },
+      "retweet_count": 4,
+      "favorite_count": 64,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087150.725901",
+      "text": "La r\u00e9gulation va frapper Solana durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 3773
+      },
+      "retweet_count": 52,
+      "favorite_count": 14,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087150.725901",
+      "text": "Les nouvelles fonctionnalit\u00e9s de Solana sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 8234
+      },
+      "retweet_count": 72,
+      "favorite_count": 16,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087150.726898",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 846
+      },
+      "retweet_count": 73,
+      "favorite_count": 147,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087150.726898",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 9435
+      },
+      "retweet_count": 59,
+      "favorite_count": 166,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087150.726898",
+      "text": "Le volume d'\u00e9changes de Solana est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 6194
+      },
+      "retweet_count": 29,
+      "favorite_count": 98,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087150.726898",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de Solana ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 3677
+      },
+      "retweet_count": 64,
+      "favorite_count": 142,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_0_1743087150.7309",
+      "text": "$SOL est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_0",
+        "followers_count": 8504
+      },
+      "retweet_count": 55,
+      "favorite_count": 10,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_1_1743087150.7309",
+      "text": "Vient d'acheter plus de $SOL. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_1",
+        "followers_count": 5729
+      },
+      "retweet_count": 88,
+      "favorite_count": 74,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_2_1743087150.731571",
+      "text": "Comment voyez-vous $SOL dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_2",
+        "followers_count": 4975
+      },
+      "retweet_count": 69,
+      "favorite_count": 181,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_3_1743087150.731885",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $SOL ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_3",
+        "followers_count": 9739
+      },
+      "retweet_count": 26,
+      "favorite_count": 160,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_4_1743087150.731885",
+      "text": "J'adore $SOL! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_4",
+        "followers_count": 5095
+      },
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_5_1743087150.731885",
+      "text": "Comparaison int\u00e9ressante entre $SOL et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_5",
+        "followers_count": 2425
+      },
+      "retweet_count": 84,
+      "favorite_count": 149,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_6_1743087150.732884",
+      "text": "J'adore $SOL! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_6",
+        "followers_count": 8967
+      },
+      "retweet_count": 73,
+      "favorite_count": 169,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_7_1743087150.733461",
+      "text": "Je viens de vendre tout mon $SOL. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_7",
+        "followers_count": 3515
+      },
+      "retweet_count": 49,
+      "favorite_count": 43,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_8_1743087150.733881",
+      "text": "Vient d'acheter plus de $SOL. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_8",
+        "followers_count": 5255
+      },
+      "retweet_count": 16,
+      "favorite_count": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_9_1743087150.733881",
+      "text": "$SOL a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_9",
+        "followers_count": 3928
+      },
+      "retweet_count": 60,
+      "favorite_count": 117,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087150.733881",
+      "text": "Les probl\u00e8mes techniques de $SOL sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 5199
+      },
+      "retweet_count": 97,
+      "favorite_count": 186,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_11_1743087150.733881",
+      "text": "J'adore $SOL! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_11",
+        "followers_count": 924
+      },
+      "retweet_count": 12,
+      "favorite_count": 10,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087150.734878",
+      "text": "Vient d'acheter plus de $SOL. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 2927
+      },
+      "retweet_count": 9,
+      "favorite_count": 182,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_13_1743087150.734878",
+      "text": "J'adore $SOL! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_13",
+        "followers_count": 3877
+      },
+      "retweet_count": 79,
+      "favorite_count": 191,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_14_1743087150.734878",
+      "text": "Le volume d'\u00e9changes de $SOL est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_14",
+        "followers_count": 2219
+      },
+      "retweet_count": 95,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_15_1743087150.734878",
+      "text": "La r\u00e9gulation va frapper $SOL durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_15",
+        "followers_count": 3217
+      },
+      "retweet_count": 97,
+      "favorite_count": 21,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_16_1743087150.736873",
+      "text": "Je viens de vendre tout mon $SOL. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_16",
+        "followers_count": 4025
+      },
+      "retweet_count": 44,
+      "favorite_count": 197,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_17_1743087150.737141",
+      "text": "Comparaison int\u00e9ressante entre $SOL et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_17",
+        "followers_count": 1226
+      },
+      "retweet_count": 49,
+      "favorite_count": 180,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087150.73787",
+      "text": "La r\u00e9gulation va frapper $SOL durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 5242
+      },
+      "retweet_count": 41,
+      "favorite_count": 61,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_19_1743087150.73787",
+      "text": "$SOL a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_19",
+        "followers_count": 3973
+      },
+      "retweet_count": 68,
+      "favorite_count": 152,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_20_1743087150.73787",
+      "text": "Comparaison int\u00e9ressante entre $SOL et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_20",
+        "followers_count": 822
+      },
+      "retweet_count": 51,
+      "favorite_count": 48,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_21_1743087150.73787",
+      "text": "Vient d'acheter plus de $SOL. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_21",
+        "followers_count": 4947
+      },
+      "retweet_count": 57,
+      "favorite_count": 195,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_22_1743087150.73787",
+      "text": "Comparaison int\u00e9ressante entre $SOL et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_22",
+        "followers_count": 2373
+      },
+      "retweet_count": 62,
+      "favorite_count": 92,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_23_1743087150.73787",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $SOL? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_23",
+        "followers_count": 3044
+      },
+      "retweet_count": 77,
+      "favorite_count": 112,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_24_1743087150.738867",
+      "text": "Comment voyez-vous $SOL dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_24",
+        "followers_count": 9593
+      },
+      "retweet_count": 99,
+      "favorite_count": 116,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_25_1743087150.738867",
+      "text": "$SOL a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_25",
+        "followers_count": 3793
+      },
+      "retweet_count": 74,
+      "favorite_count": 156,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_26_1743087150.738867",
+      "text": "$SOL est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_26",
+        "followers_count": 7438
+      },
+      "retweet_count": 28,
+      "favorite_count": 45,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_27_1743087150.738867",
+      "text": "$SOL est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_27",
+        "followers_count": 7700
+      },
+      "retweet_count": 80,
+      "favorite_count": 167,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_28_1743087150.738867",
+      "text": "Les probl\u00e8mes techniques de $SOL sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_28",
+        "followers_count": 2906
+      },
+      "retweet_count": 56,
+      "favorite_count": 92,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_29_1743087150.738867",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $SOL? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_29",
+        "followers_count": 4196
+      },
+      "retweet_count": 79,
+      "favorite_count": 71,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_30_1743087150.739865",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de $SOL? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_30",
+        "followers_count": 9745
+      },
+      "retweet_count": 57,
+      "favorite_count": 174,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_31_1743087150.739865",
+      "text": "$SOL est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_31",
+        "followers_count": 1875
+      },
+      "retweet_count": 79,
+      "favorite_count": 125,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_32_1743087150.739865",
+      "text": "$SOL r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_32",
+        "followers_count": 7762
+      },
+      "retweet_count": 53,
+      "favorite_count": 161,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_33_1743087150.740608",
+      "text": "Les probl\u00e8mes techniques de $SOL sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_33",
+        "followers_count": 3352
+      },
+      "retweet_count": 52,
+      "favorite_count": 150,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_34_1743087150.740862",
+      "text": "$SOL est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_34",
+        "followers_count": 6597
+      },
+      "retweet_count": 44,
+      "favorite_count": 175,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_35_1743087150.740862",
+      "text": "Vient d'acheter plus de $SOL. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_35",
+        "followers_count": 1894
+      },
+      "retweet_count": 7,
+      "favorite_count": 17,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_36_1743087150.740862",
+      "text": "Comparaison int\u00e9ressante entre $SOL et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_36",
+        "followers_count": 938
+      },
+      "retweet_count": 64,
+      "favorite_count": 6,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_37_1743087150.741859",
+      "text": "$SOL est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_37",
+        "followers_count": 5061
+      },
+      "retweet_count": 71,
+      "favorite_count": 40,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_38_1743087150.741859",
+      "text": "Les probl\u00e8mes techniques de $SOL sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_38",
+        "followers_count": 2342
+      },
+      "retweet_count": 1,
+      "favorite_count": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_39_1743087150.742238",
+      "text": "$SOL est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_39",
+        "followers_count": 5009
+      },
+      "retweet_count": 30,
+      "favorite_count": 38,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_40_1743087150.742238",
+      "text": "Les probl\u00e8mes techniques de $SOL sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_40",
+        "followers_count": 4433
+      },
+      "retweet_count": 11,
+      "favorite_count": 71,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_41_1743087150.744883",
+      "text": "La r\u00e9gulation va frapper $SOL durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_41",
+        "followers_count": 822
+      },
+      "retweet_count": 28,
+      "favorite_count": 22,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_42_1743087150.744883",
+      "text": "Vient d'acheter plus de $SOL. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_42",
+        "followers_count": 2185
+      },
+      "retweet_count": 15,
+      "favorite_count": 123,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_43_1743087150.745849",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $SOL sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_43",
+        "followers_count": 9397
+      },
+      "retweet_count": 99,
+      "favorite_count": 99,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_44_1743087150.745849",
+      "text": "Vient d'acheter plus de $SOL. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_44",
+        "followers_count": 5498
+      },
+      "retweet_count": 98,
+      "favorite_count": 23,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_45_1743087150.745849",
+      "text": "$SOL est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_45",
+        "followers_count": 3710
+      },
+      "retweet_count": 76,
+      "favorite_count": 120,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_46_1743087150.746851",
+      "text": "$SOL a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 6073
+      },
+      "retweet_count": 35,
+      "favorite_count": 139,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_47_1743087150.746975",
+      "text": "Comment voyez-vous $SOL dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_47",
+        "followers_count": 2555
+      },
+      "retweet_count": 94,
+      "favorite_count": 108,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_48_1743087150.746975",
+      "text": "Les probl\u00e8mes techniques de $SOL sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_48",
+        "followers_count": 5596
+      },
+      "retweet_count": 73,
+      "favorite_count": 181,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_49_1743087150.747851",
+      "text": "Les probl\u00e8mes techniques de $SOL sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_49",
+        "followers_count": 5305
+      },
+      "retweet_count": 77,
+      "favorite_count": 124,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_50_1743087150.747851",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $SOL sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_50",
+        "followers_count": 382
+      },
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_51_1743087150.748468",
+      "text": "Je viens de vendre tout mon $SOL. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_51",
+        "followers_count": 5500
+      },
+      "retweet_count": 10,
+      "favorite_count": 170,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_52_1743087150.748468",
+      "text": "Le volume d'\u00e9changes de $SOL est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_52",
+        "followers_count": 1983
+      },
+      "retweet_count": 93,
+      "favorite_count": 146,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_53_1743087150.748948",
+      "text": "$SOL r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_53",
+        "followers_count": 735
+      },
+      "retweet_count": 57,
+      "favorite_count": 170,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_54_1743087150.748948",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $SOL sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_54",
+        "followers_count": 2786
+      },
+      "retweet_count": 44,
+      "favorite_count": 61,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_55_1743087150.748948",
+      "text": "Vient d'acheter plus de $SOL. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_55",
+        "followers_count": 8893
+      },
+      "retweet_count": 34,
+      "favorite_count": 177,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_56_1743087150.748948",
+      "text": "Le volume d'\u00e9changes de $SOL est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_56",
+        "followers_count": 4218
+      },
+      "retweet_count": 71,
+      "favorite_count": 142,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_57_1743087150.749846",
+      "text": "Comparaison int\u00e9ressante entre $SOL et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_57",
+        "followers_count": 4694
+      },
+      "retweet_count": 78,
+      "favorite_count": 32,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_58_1743087150.749846",
+      "text": "Comment voyez-vous $SOL dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_58",
+        "followers_count": 6187
+      },
+      "retweet_count": 23,
+      "favorite_count": 152,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087150.749846",
+      "text": "J'adore $SOL! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 882
+      },
+      "retweet_count": 38,
+      "favorite_count": 42,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_60_1743087150.749846",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $SOL sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_60",
+        "followers_count": 8206
+      },
+      "retweet_count": 93,
+      "favorite_count": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_61_1743087150.751047",
+      "text": "$SOL r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_61",
+        "followers_count": 7382
+      },
+      "retweet_count": 20,
+      "favorite_count": 180,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_62_1743087150.751833",
+      "text": "Les probl\u00e8mes techniques de $SOL sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_62",
+        "followers_count": 9967
+      },
+      "retweet_count": 30,
+      "favorite_count": 33,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_63_1743087150.75198",
+      "text": "Les probl\u00e8mes techniques de $SOL sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_63",
+        "followers_count": 824
+      },
+      "retweet_count": 89,
+      "favorite_count": 174,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_64_1743087150.75198",
+      "text": "Comment voyez-vous $SOL dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_64",
+        "followers_count": 1462
+      },
+      "retweet_count": 34,
+      "favorite_count": 138,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_65_1743087150.75198",
+      "text": "Je viens de vendre tout mon $SOL. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_65",
+        "followers_count": 7172
+      },
+      "retweet_count": 78,
+      "favorite_count": 50,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_66_1743087150.75198",
+      "text": "Le volume d'\u00e9changes de $SOL est stable cette semaine. #crypto #trading",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_66",
+        "followers_count": 8436
+      },
+      "retweet_count": 91,
+      "favorite_count": 23,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_67_1743087150.75283",
+      "text": "J'adore $SOL! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_67",
+        "followers_count": 8127
+      },
+      "retweet_count": 77,
+      "favorite_count": 96,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_68_1743087150.75283",
+      "text": "$SOL a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_68",
+        "followers_count": 1759
+      },
+      "retweet_count": 70,
+      "favorite_count": 12,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_69_1743087150.75283",
+      "text": "Vient d'acheter plus de $SOL. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_69",
+        "followers_count": 8228
+      },
+      "retweet_count": 23,
+      "favorite_count": 31,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_70_1743087150.753828",
+      "text": "J'adore $SOL! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_70",
+        "followers_count": 1591
+      },
+      "retweet_count": 38,
+      "favorite_count": 125,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_71_1743087150.753828",
+      "text": "Vient d'acheter plus de $SOL. Le projet est solide et l'\u00e9quipe est excellente. #investissement",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_71",
+        "followers_count": 9651
+      },
+      "retweet_count": 69,
+      "favorite_count": 0,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_72_1743087150.753828",
+      "text": "$SOL r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_72",
+        "followers_count": 3888
+      },
+      "retweet_count": 46,
+      "favorite_count": 5,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_73_1743087150.753828",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $SOL sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_73",
+        "followers_count": 5045
+      },
+      "retweet_count": 43,
+      "favorite_count": 38,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_74_1743087150.753828",
+      "text": "Je viens de vendre tout mon $SOL. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_74",
+        "followers_count": 5982
+      },
+      "retweet_count": 5,
+      "favorite_count": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_75_1743087150.753828",
+      "text": "La r\u00e9gulation va frapper $SOL durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_75",
+        "followers_count": 9185
+      },
+      "retweet_count": 85,
+      "favorite_count": 35,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_76_1743087150.754824",
+      "text": "Comment voyez-vous $SOL dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_76",
+        "followers_count": 1356
+      },
+      "retweet_count": 21,
+      "favorite_count": 187,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_77_1743087150.754824",
+      "text": "Les probl\u00e8mes techniques de $SOL sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_77",
+        "followers_count": 6668
+      },
+      "retweet_count": 66,
+      "favorite_count": 165,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_78_1743087150.754824",
+      "text": "Les nouvelles fonctionnalit\u00e9s de $SOL sont impressionnantes. Adoption massive \u00e0 venir! #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_78",
+        "followers_count": 3544
+      },
+      "retweet_count": 10,
+      "favorite_count": 166,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_79_1743087150.754824",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $SOL ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_79",
+        "followers_count": 3877
+      },
+      "retweet_count": 47,
+      "favorite_count": 183,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_80_1743087150.754824",
+      "text": "Je viens de vendre tout mon $SOL. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_80",
+        "followers_count": 2644
+      },
+      "retweet_count": 68,
+      "favorite_count": 124,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_81_1743087150.754824",
+      "text": "$SOL est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_81",
+        "followers_count": 1436
+      },
+      "retweet_count": 94,
+      "favorite_count": 91,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_82_1743087150.754824",
+      "text": "Les probl\u00e8mes techniques de $SOL sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_82",
+        "followers_count": 8763
+      },
+      "retweet_count": 33,
+      "favorite_count": 130,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_83_1743087150.755822",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $SOL ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_83",
+        "followers_count": 950
+      },
+      "retweet_count": 16,
+      "favorite_count": 114,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_84_1743087150.755822",
+      "text": "$SOL est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_84",
+        "followers_count": 123
+      },
+      "retweet_count": 35,
+      "favorite_count": 108,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_85_1743087150.755822",
+      "text": "La r\u00e9gulation va frapper $SOL durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_85",
+        "followers_count": 521
+      },
+      "retweet_count": 80,
+      "favorite_count": 170,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_86_1743087150.755822",
+      "text": "Je viens de vendre tout mon $SOL. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_86",
+        "followers_count": 4889
+      },
+      "retweet_count": 64,
+      "favorite_count": 28,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_87_1743087150.755822",
+      "text": "J'adore $SOL! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_87",
+        "followers_count": 3594
+      },
+      "retweet_count": 53,
+      "favorite_count": 184,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_88_1743087150.755822",
+      "text": "$SOL r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_88",
+        "followers_count": 4263
+      },
+      "retweet_count": 79,
+      "favorite_count": 104,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_89_1743087150.755822",
+      "text": "$SOL est sur\u00e9valu\u00e9. Attendez-vous \u00e0 une correction. #bearish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_89",
+        "followers_count": 2371
+      },
+      "retweet_count": 18,
+      "favorite_count": 122,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_90_1743087150.755822",
+      "text": "J'adore $SOL! Le prix va certainement monter. #bullish #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_90",
+        "followers_count": 6567
+      },
+      "retweet_count": 61,
+      "favorite_count": 35,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_91_1743087150.756819",
+      "text": "La r\u00e9gulation va frapper $SOL durement. Soyez prudents. #crypto #r\u00e9gulation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_91",
+        "followers_count": 6857
+      },
+      "retweet_count": 67,
+      "favorite_count": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_92_1743087150.756819",
+      "text": "Les probl\u00e8mes techniques de $SOL sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_92",
+        "followers_count": 3287
+      },
+      "retweet_count": 6,
+      "favorite_count": 148,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_93_1743087150.756819",
+      "text": "Int\u00e9ressant de voir l'\u00e9volution de $SOL ces derniers temps. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_93",
+        "followers_count": 5119
+      },
+      "retweet_count": 79,
+      "favorite_count": 10,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_94_1743087150.756819",
+      "text": "$SOL a trop de concurrence. Difficile de rester pertinent. #crypto #march\u00e9",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_94",
+        "followers_count": 7752
+      },
+      "retweet_count": 78,
+      "favorite_count": 16,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_95_1743087150.756819",
+      "text": "Je viens de vendre tout mon $SOL. Trop de risques en ce moment. #crypto #prudence",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_95",
+        "followers_count": 2383
+      },
+      "retweet_count": 18,
+      "favorite_count": 15,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_96_1743087150.757816",
+      "text": "Comparaison int\u00e9ressante entre $SOL et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_96",
+        "followers_count": 6569
+      },
+      "retweet_count": 94,
+      "favorite_count": 41,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_97_1743087150.757816",
+      "text": "Comment voyez-vous $SOL dans 5 ans? #crypto #futur",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_97",
+        "followers_count": 4483
+      },
+      "retweet_count": 88,
+      "favorite_count": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_98_1743087150.757816",
+      "text": "$SOL r\u00e9sout des probl\u00e8mes r\u00e9els. C'est pourquoi j'y crois. #blockchain #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_98",
+        "followers_count": 6120
+      },
+      "retweet_count": 83,
+      "favorite_count": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_99_1743087150.757816",
+      "text": "$SOL est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_99",
+        "followers_count": 781
+      },
+      "retweet_count": 94,
+      "favorite_count": 160,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    }
+  ],
+  "popular_tweets": [
+    {
+      "id": "tweet_46_1743087150.688004",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_46",
+        "followers_count": 8829
+      },
+      "retweet_count": 93,
+      "favorite_count": 194,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_10_1743087150.733881",
+      "text": "Les probl\u00e8mes techniques de $SOL sont inqui\u00e9tants. L'\u00e9quipe doit agir vite. #crypto",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_10",
+        "followers_count": 5199
+      },
+      "retweet_count": 97,
+      "favorite_count": 186,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_59_1743087150.642125",
+      "text": "Comparaison int\u00e9ressante entre Solana et d'autres projets similaires. #crypto #analyse",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_59",
+        "followers_count": 1138
+      },
+      "retweet_count": 86,
+      "favorite_count": 195,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_18_1743087150.677033",
+      "text": "Quelqu'un a des infos sur les prochaines mises \u00e0 jour de Solana? #crypto #info",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_18",
+        "followers_count": 4636
+      },
+      "retweet_count": 93,
+      "favorite_count": 181,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "id": "tweet_12_1743087150.623177",
+      "text": "Solana est l'avenir de la finance. Tellement d'applications potentielles! #crypto #innovation",
+      "created_at": "2025-03-27 15:52:30",
+      "user": {
+        "screen_name": "crypto_user_12",
+        "followers_count": 8406
+      },
+      "retweet_count": 85,
+      "favorite_count": 186,
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    }
+  ],
+  "timestamp": "2025-03-27 15:52:30"
+}
